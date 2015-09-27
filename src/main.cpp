@@ -970,7 +970,7 @@ int64 GetProofOfStakeReward(int64 nCoinAge)
     static int64 nRewardCoinYear = 12000 * CENT;  // creation amount per coin-year
     int64 nSubsidy = nCoinAge * 33 / (365 * 33 + 8) * nRewardCoinYear;
 
-    strMotivational = "Wow, BRUH you just staked " + FormatMoney(nSubsidy).c_str();
+    strMotivational = "Wow, BRUH you just staked!";
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfStakeReward(): create=%s nCoinAge=%"PRI64d"\n", FormatMoney(nSubsidy).c_str(), nCoinAge);
     return nSubsidy;
