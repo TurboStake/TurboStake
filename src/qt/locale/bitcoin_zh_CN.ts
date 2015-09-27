@@ -2673,8 +2673,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9901 or testnet: 9903)</source>
-        <translation>监听端口连接 &lt;port&gt; (缺省: 9901 或测试网络: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 9903)</source>
+        <translation>监听端口连接 &lt;port&gt; (缺省: 6901 或测试网络: 9903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2797,8 +2797,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9902)</source>
-        <translation>JSON-RPC连接监听&lt;端口&gt; (默认为 9902)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 6902)</source>
+        <translation>JSON-RPC连接监听&lt;端口&gt; (默认为 6902)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>

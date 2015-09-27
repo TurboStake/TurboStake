@@ -2677,8 +2677,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9901 or testnet: 9903)</source>
-        <translation>Écouter les connexions sur le &lt;port&gt; (par défaut : 9901 ou testnet : 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 9903)</source>
+        <translation>Écouter les connexions sur le &lt;port&gt; (par défaut : 6901 ou testnet : 9903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2797,8 +2797,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9902)</source>
-        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (par défaut : 9902)</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 6902)</source>
+        <translation>Écouter les connexions JSON-RPC sur le &lt;port&gt; (par défaut : 6902)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>

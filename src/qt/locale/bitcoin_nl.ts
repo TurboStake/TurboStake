@@ -2676,8 +2676,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9901 or testnet: 9903)</source>
-        <translation>Luister voor verbindingen op &lt;port&gt; (standaard:9901 of testnet: 9903)</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 9903)</source>
+        <translation>Luister voor verbindingen op &lt;port&gt; (standaard:6901 of testnet: 9903)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2802,8 +2802,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9902)</source>
-        <translation>Luister voor JSON-RPC verbindingen op &lt;port&gt; (standaard: 9902)
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 6902)</source>
+        <translation>Luister voor JSON-RPC verbindingen op &lt;port&gt; (standaard: 6902)
 </translation>
     </message>
     <message>

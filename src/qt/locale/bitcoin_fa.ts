@@ -2648,8 +2648,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9901 or testnet: 9903)</source>
-        <translation>برای اتصالات به &lt;port&gt; (پیش‌فرض: 8333 یا تست‌نت: 18333) گوش کنید {9901 ?} {9903)?}</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 9903)</source>
+        <translation>برای اتصالات به &lt;port&gt; (پیش‌فرض: 8333 یا تست‌نت: 18333) گوش کنید {6901 ?} {9903)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2768,8 +2768,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9902)</source>
-        <translation>( 8332پیش فرض :) &amp;lt;poort&amp;gt; JSON-RPC شنوایی برای ارتباطات {9902)?}</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 6902)</source>
+        <translation>( 8332پیش فرض :) &amp;lt;poort&amp;gt; JSON-RPC شنوایی برای ارتباطات {6902)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>

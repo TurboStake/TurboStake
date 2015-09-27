@@ -2663,8 +2663,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="30"/>
-        <source>Listen for connections on &lt;port&gt; (default: 9901 or testnet: 9903)</source>
-        <translation type="unfinished">Načúvať spojeniam na &lt;port&gt; (prednastavené: 8333 alebo testovacia sieť: 18333) {9901 ?} {9903)?}</translation>
+        <source>Listen for connections on &lt;port&gt; (default: 6901 or testnet: 9903)</source>
+        <translation type="unfinished">Načúvať spojeniam na &lt;port&gt; (prednastavené: 8333 alebo testovacia sieť: 18333) {6901 ?} {9903)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="31"/>
@@ -2783,8 +2783,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="56"/>
-        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 9902)</source>
-        <translation type="unfinished">Počúvať JSON-RPC spojeniam na &lt;port&gt; (predvolené: 8332) {9902)?}</translation>
+        <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 6902)</source>
+        <translation type="unfinished">Počúvať JSON-RPC spojeniam na &lt;port&gt; (predvolené: 8332) {6902)?}</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
