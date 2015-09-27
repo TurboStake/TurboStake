@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
-        <translation>Om Sprouts</translation>
+        <source>About StrongHands</source>
+        <translation>Om StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Sprouts Developers</source>
-        <translation>Copyright © 2014 Sprouts Utviklerne</translation>
+        <source>Copyright © 2014 StrongHands Developers</source>
+        <translation>Copyright © 2014 StrongHands Utviklerne</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Sprouts Developers</source>
-        <translation>Copyright © 2015 Sprouts Utviklerne</translation>
+        <source>Copyright © 2011-2014 StrongHands Developers</source>
+        <translation>Copyright © 2015 StrongHands Utviklerne</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL Project for bruk i Op
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine Sprouts-adresser for å motta betalinger. Du kan gi en adresse til hver enkelt som skal betale deg, slik at du kan holde orden på hvem som har betalt.</translation>
+        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine StrongHands-adresser for å motta betalinger. Du kan gi en adresse til hver enkelt som skal betale deg, slik at du kan holde orden på hvem som har betalt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
-        <translation>Sprouts vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine peercoins fra å bli stjålet av skadevare som infiserer datamaskinen din.</translation>
+        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
+        <translation>StrongHands vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine peercoins fra å bli stjålet av skadevare som infiserer datamaskinen din.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Sprouts</source>
-        <translation>Vis informasjon om Sprouts</translation>
+        <source>Show information about StrongHands</source>
+        <translation>Vis informasjon om StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Sprouts Wallet</source>
-        <translation>Sprouts Lommebok</translation>
+        <source>StrongHands Wallet</source>
+        <translation>StrongHands Lommebok</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Sprouts address</source>
-        <translation>Send mynter til en Sprouts-adresse</translation>
+        <source>Send coins to a StrongHands address</source>
+        <translation>Send mynter til en StrongHands-adresse</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Sprouts</source>
-        <translation>&amp;Om Sprouts</translation>
+        <source>&amp;About StrongHands</source>
+        <translation>&amp;Om StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Sprouts</source>
-        <translation>Endre oppsett for Sprouts</translation>
+        <source>Modify configuration options for StrongHands</source>
+        <translation>Endre oppsett for StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Sprouts</source>
-        <translation>Vis/Skjul &amp;Sprouts</translation>
+        <source>Show/Hide &amp;StrongHands</source>
+        <translation>Vis/Skjul &amp;StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Sprouts window</source>
-        <translation>Vis eller skjul Sprouts-vinduet</translation>
+        <source>Show or hide the StrongHands window</source>
+        <translation>Vis eller skjul StrongHands-vinduet</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Sprouts client</source>
-        <translation>Sprouts klient</translation>
+        <source>StrongHands client</source>
+        <translation>StrongHands klient</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Sprouts network</source>
+        <source>%n active connection(s) to StrongHands network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -678,8 +678,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Sprouts can no longer continue safely and will quit.</source>
-        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og Sprouts må derfor avslutte.</translation>
+        <source>A fatal error occured. StrongHands can no longer continue safely and will quit.</source>
+        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og StrongHands må derfor avslutte.</translation>
     </message>
 </context>
 <context>
@@ -716,7 +716,7 @@ Adresse: %4
         <location filename="../forms/coincontroldialog.ui" line="310"/>
         <location filename="../forms/coincontroldialog.ui" line="348"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SPRTS</translation>
+        <translation>0.00 SHND</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="157"/>
@@ -980,8 +980,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Sprouts addresses in the transaction list</source>
-        <translation>Om Sprouts-adresser skal vises i transaksjonslisten eller ikke.</translation>
+        <source>Whether to show StrongHands addresses in the transaction list</source>
+        <translation>Om StrongHands-adresser skal vises i transaksjonslisten eller ikke.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1048,8 +1048,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
-        <translation>Den oppgitte adressen &quot;%1&quot; er ikke en gyldig Sprouts-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
+        <translation>Den oppgitte adressen &quot;%1&quot; er ikke en gyldig StrongHands-adresse.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1091,8 +1091,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åpne automatisk Sprouts klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
+        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åpne automatisk StrongHands klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1102,7 +1102,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Koble til Sprouts sitt nettverket gjennom en SOCKS4-mellomtjener (f.eks. for tilkobling gjennom Tor)</translation>
+        <translation>Koble til StrongHands sitt nettverket gjennom en SOCKS4-mellomtjener (f.eks. for tilkobling gjennom Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1126,8 +1126,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SPRTS fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Obligatorisk transaksjonsgebyr per kB overført. De fleste transaksjonene er 1 kB og krever et gebyr på 0,01 SPRTS. Størrelsen på transaksjoner kan øke på grunn av mengden inntransaksjoner som kreves for å finansiere betalingen.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SHND fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Obligatorisk transaksjonsgebyr per kB overført. De fleste transaksjonene er 1 kB og krever et gebyr på 0,01 SHND. Størrelsen på transaksjoner kan øke på grunn av mengden inntransaksjoner som kreves for å finansiere betalingen.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1146,13 +1146,13 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Sprouts on window system startup</source>
-        <translation>&amp;Start Sprouts ved oppstart av datamaskinen</translation>
+        <source>&amp;Start StrongHands on window system startup</source>
+        <translation>&amp;Start StrongHands ved oppstart av datamaskinen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
-        <translation>Start Sprouts automatisk når datamaskinen blir slått på</translation>
+        <source>Automatically start StrongHands after the computer is turned on</source>
+        <translation>Start StrongHands automatisk når datamaskinen blir slått på</translation>
     </message>
 </context>
 <context>
@@ -1436,8 +1436,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SPRTS</source>
-        <translation>SPRTS</translation>
+        <source>SHND</source>
+        <translation>SHND</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1479,8 +1479,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Sprouts (Sprouts) debug window</source>
-        <translation>Sprouts feilsøkingsvindu</translation>
+        <source>StrongHands (StrongHands) debug window</source>
+        <translation>StrongHands feilsøkingsvindu</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1571,8 +1571,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Sprouts RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Velkommen til Sprouts sin RPC-konsoll.&lt;br&gt;Bruk opp og ned pil for å navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for å tømme skjermen.&lt;br&gt;Skriv &lt;b&gt;help&lt;/b&gt; for en oversikt over kommandoer.</translation>
+        <source>Welcome to the StrongHands RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Velkommen til StrongHands sin RPC-konsoll.&lt;br&gt;Bruk opp og ned pil for å navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for å tømme skjermen.&lt;br&gt;Skriv &lt;b&gt;help&lt;/b&gt; for en oversikt over kommandoer.</translation>
     </message>
 </context>
 <context>
@@ -1636,7 +1636,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
         <location filename="../forms/sendcoinsdialog.ui" line="496"/>
         <location filename="../forms/sendcoinsdialog.ui" line="528"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SPRTS</translation>
+        <translation>0.00 SHND</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="337"/>
@@ -1706,7 +1706,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="714"/>
         <source>123.456 BTC</source>
-        <translation>123.456 SPRTS</translation>
+        <translation>123.456 SHND</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="745"/>
@@ -1786,7 +1786,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="457"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Advarsel: Ugyldig Sprouts-adresse</translation>
+        <translation>Advarsel: Ugyldig StrongHands-adresse</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="466"/>
@@ -1805,8 +1805,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Angi en Sprouts-adresse</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Angi en StrongHands-adresse</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1894,8 +1894,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Angi en Sprouts-adresse</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Angi en StrongHands-adresse</translation>
     </message>
 </context>
 <context>
@@ -1959,8 +1959,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Sprouts address</source>
-        <translation>Signer meldingen for å bevise at du eier denne Sprouts-adressen</translation>
+        <source>Sign the message to prove you own this StrongHands address</source>
+        <translation>Signer meldingen for å bevise at du eier denne StrongHands-adressen</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1995,8 +1995,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Sprouts address</source>
-        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte Sprouts-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified StrongHands address</source>
+        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte StrongHands-adressen</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2021,8 +2021,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Angi en Sprouts-adresse</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Angi en StrongHands-adresse</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2580,18 +2580,18 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
-        <translation>Ute av stand til å binde til port %d på denne datamaskinen. Sprouts kjører sannsynligvis allerede.</translation>
+        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
+        <translation>Ute av stand til å binde til port %d på denne datamaskinen. StrongHands kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Sprouts version</source>
-        <translation>Sprouts versjon</translation>
+        <source>StrongHands version</source>
+        <translation>StrongHands versjon</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or sproutsd</source>
-        <translation>Send kommando til -server eller sproutsd</translation>
+        <source>Send command to -server or stronghandsd</source>
+        <translation>Send kommando til -server eller stronghandsd</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2610,13 +2610,13 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: sprouts.conf)</source>
-        <translation>Angi konfigurasjonsfil (standardverdi: sprouts.conf)</translation>
+        <source>Specify configuration file (default: stronghands.conf)</source>
+        <translation>Angi konfigurasjonsfil (standardverdi: stronghands.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
-        <translation>Angi pid-fil (standardverdi: sproutsd.pid)</translation>
+        <source>Specify pid file (default: stronghandsd.pid)</source>
+        <translation>Angi pid-fil (standardverdi: stronghandsd.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2871,23 +2871,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
-        <translation>Ute av stand til å låse datamappen %s. Sprouts kjører sannsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
+        <translation>Ute av stand til å låse datamappen %s. StrongHands kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Sprouts</source>
-        <translation>Sprouts</translation>
+        <source>StrongHands</source>
+        <translation>StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av Sprouts</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
-        <translation>Lommeboken måtte skrives om: start Sprouts på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
+        <translation>Lommeboken måtte skrives om: start StrongHands på nytt for å fullføre</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2903,8 +2903,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
-        <translation>Advarsel: Vennligst sjekk at datamaskinens dato og tid er korrekt. Hvis klokken din er feil vil ikke Sprouts fungere skikkelig.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
+        <translation>Advarsel: Vennligst sjekk at datamaskinens dato og tid er korrekt. Hvis klokken din er feil vil ikke StrongHands fungere skikkelig.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

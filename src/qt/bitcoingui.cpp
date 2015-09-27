@@ -1,9 +1,9 @@
 /*
- * Qt4 sprouts GUI.
+ * Qt4 stronghands GUI.
  *
  * W.J. van der Laan 2011-2012
  * The Bitcoin Developers 2011-2012
- * The Sprouts Developers 2011-2013
+ * The StrongHands Developers 2011-2013
  */
 #include "bitcoingui.h"
 #include "transactiontablemodel.h"
@@ -74,9 +74,9 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     rpcConsole(0)
 {
     resize(850, 550);
-    setWindowTitle(tr("Sprouts Wallet"));
+    setWindowTitle(tr("StrongHands Wallet"));
 #ifndef Q_WS_MAC
-    setWindowIcon(QIcon(":icons/sprouts_icon"));
+    setWindowIcon(QIcon(":icons/stronghands_icon"));
 #else
     setUnifiedTitleAndToolBarOnMac(true);
     QApplication::setAttribute(Qt::AA_DontShowIconsInMenus);
@@ -222,7 +222,7 @@ void BitcoinGUI::createActions()
     tabGroup->addAction(receiveCoinsAction);
 
     sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send coins"), this);
-    sendCoinsAction->setToolTip(tr("Send coins to a Sprouts address"));
+    sendCoinsAction->setToolTip(tr("Send coins to a StrongHands address"));
     sendCoinsAction->setCheckable(true);
     sendCoinsAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_2));
     tabGroup->addAction(sendCoinsAction);
@@ -258,17 +258,17 @@ void BitcoinGUI::createActions()
     quitAction->setToolTip(tr("Quit application"));
     quitAction->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_Q));
     quitAction->setMenuRole(QAction::QuitRole);
-    aboutAction = new QAction(QIcon(":/icons/sprouts_tooltip"), tr("&About Sprouts"), this);
-    aboutAction->setToolTip(tr("Show information about Sprouts"));
+    aboutAction = new QAction(QIcon(":/icons/stronghands_tooltip"), tr("&About StrongHands"), this);
+    aboutAction->setToolTip(tr("Show information about StrongHands"));
     aboutAction->setMenuRole(QAction::AboutRole);
     aboutQtAction = new QAction(tr("About &Qt"), this);
     aboutQtAction->setToolTip(tr("Show information about Qt"));
     aboutQtAction->setMenuRole(QAction::AboutQtRole);
     optionsAction = new QAction(QIcon(":/icons/options"), tr("&Options..."), this);
-    optionsAction->setToolTip(tr("Modify configuration options for Sprouts"));
+    optionsAction->setToolTip(tr("Modify configuration options for StrongHands"));
     optionsAction->setMenuRole(QAction::PreferencesRole);
-    toggleHideAction = new QAction(QIcon(":/icons/sprouts_tooltip"), tr("Show/Hide &Sprouts"), this);
-    toggleHideAction->setToolTip(tr("Show or hide the Sprouts window"));
+    toggleHideAction = new QAction(QIcon(":/icons/stronghands_tooltip"), tr("Show/Hide &StrongHands"), this);
+    toggleHideAction->setToolTip(tr("Show or hide the StrongHands window"));
     exportAction = new QAction(QIcon(":/icons/export"), tr("&Export..."), this);
     exportAction->setToolTip(tr("Export the data in the current tab to a file"));
     encryptWalletAction = new QAction(QIcon(":/icons/lock_closed"), tr("&Encrypt Wallet"), this);
@@ -359,14 +359,14 @@ void BitcoinGUI::setClientModel(ClientModel *clientModel)
             QString title_testnet = windowTitle() + QString(" ") + tr("[testnet]");
             setWindowTitle(title_testnet);
 #ifndef Q_WS_MAC
-            setWindowIcon(QIcon(":icons/sprouts_icon"));
+            setWindowIcon(QIcon(":icons/stronghands_icon"));
 #else
-            MacDockIconHandler::instance()->setIcon(QIcon(":icons/sprouts_icon"));
+            MacDockIconHandler::instance()->setIcon(QIcon(":icons/stronghands_icon"));
 #endif
             if(trayIcon)
             {
                 trayIcon->setToolTip(title_testnet);
-                trayIcon->setIcon(QIcon(":/icons/sprouts_tooltip"));
+                trayIcon->setIcon(QIcon(":/icons/stronghands_tooltip"));
             }
         }
 
@@ -422,8 +422,8 @@ void BitcoinGUI::createTrayIcon()
     trayIcon = new QSystemTrayIcon(this);
     trayIconMenu = new QMenu(this);
     trayIcon->setContextMenu(trayIconMenu);
-    trayIcon->setToolTip(tr("Sprouts client"));
-    trayIcon->setIcon(QIcon(":/icons/sprouts_tooltip"));
+    trayIcon->setToolTip(tr("StrongHands client"));
+    trayIcon->setIcon(QIcon(":/icons/stronghands_tooltip"));
     connect(trayIcon, SIGNAL(activated(QSystemTrayIcon::ActivationReason)),
             this, SLOT(trayIconActivated(QSystemTrayIcon::ActivationReason)));
     trayIcon->show();
@@ -515,7 +515,7 @@ void BitcoinGUI::setNumConnections(int count)
     default: icon = ":/icons/connect_4"; break;
     }
     labelConnectionsIcon->setPixmap(QIcon(icon).pixmap(STATUSBAR_ICONSIZE,STATUSBAR_ICONSIZE));
-    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Sprouts network", "", count));
+    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to StrongHands network", "", count));
 }
 
 void BitcoinGUI::setNumBlocks(int count)

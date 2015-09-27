@@ -1,5 +1,5 @@
 // Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2011-2013 The Sprouts developers
+// Copyright (c) 2011-2013 The StrongHands developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 #ifndef BITCOIN_CHECKPOINT_H
@@ -48,7 +48,7 @@ namespace Checkpoints
     bool IsSyncCheckpointTooOld(unsigned int nSeconds);
 }
 
-// sprouts: synchronized checkpoint
+// stronghands: synchronized checkpoint
 class CUnsignedSyncCheckpoint
 {
 public:

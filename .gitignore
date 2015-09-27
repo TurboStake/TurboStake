@@ -1,7 +1,7 @@
 src/*.exe
 src/sprtsoin
-src/sproutsd
-src/test_sprouts
+src/stronghandsd
+src/test_stronghands
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.sprouts
+.stronghands
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-sprouts-qt
+stronghands-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
@@ -28,3 +28,4 @@ PortIndex*
 dist
 *.app
 *.dmg
+*.idea/

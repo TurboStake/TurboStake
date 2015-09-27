@@ -1,6 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin developers
-// Copyright (c) 2011-2013 The Sprouts developers
+// Copyright (c) 2011-2013 The StrongHands developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 #ifndef BITCOIN_MAIN_H
@@ -42,7 +42,7 @@ static const int COINBASE_MATURITY_PPC = 100;
 // Threshold for nLockTime: below this value it is interpreted as block number, otherwise as UNIX timestamp.
 static const int LOCKTIME_THRESHOLD = 500000000; // Tue Nov  5 00:53:20 1985 UTC
 static const int STAKE_TARGET_SPACING = 2.5 * 60; // 2.5-minute block spacing
-static const int STAKE_MIN_AGE = 60 * 60 * 24 * 5; // minimum age for coin age 5 days
+static const int STAKE_MIN_AGE = 60 * 60 * 24 * 30; // minimum age for coin age 5 days
 static const int STAKE_MAX_AGE = 60 * 60 * 24 * 365 * 65; // stake age of full weight 65 years
 
 #ifdef USE_UPNP
@@ -527,7 +527,7 @@ public:
 
     bool IsCoinStake() const
     {
-        // sprouts: the coin stake transaction is marked with the first output empty
+        // stronghands: the coin stake transaction is marked with the first output empty
         return (vin.size() > 0 && (!vin[0].prevout.IsNull()) && vout.size() >= 2 && vout[0].IsEmpty());
     }
 
@@ -701,7 +701,7 @@ public:
     bool ClientConnectInputs();
     bool CheckTransaction() const;
     bool AcceptToMemoryPool(CTxDB& txdb, bool fCheckInputs=true, bool* pfMissingInputs=NULL);
-    bool GetCoinAge(CTxDB& txdb, uint64& nCoinAge) const;  // sprouts: get transaction coin age
+    bool GetCoinAge(CTxDB& txdb, uint64& nCoinAge) const;  // stronghands: get transaction coin age
 
 protected:
     const CTxOut& GetOutputFor(const CTxIn& input, const MapPrevTx& inputs) const;
@@ -845,7 +845,7 @@ public:
     // network and disk
     std::vector<CTransaction> vtx;
 
-    // sprouts: block signature - signed by coin base txout[0]'s owner
+    // stronghands: block signature - signed by coin base txout[0]'s owner
     std::vector<unsigned char> vchBlockSig;
 
     // memory only
@@ -914,7 +914,7 @@ public:
 
     void UpdateTime(const CBlockIndex* pindexPrev);
 
-    // sprouts: two types of block: proof-of-work or proof-of-stake
+    // stronghands: two types of block: proof-of-work or proof-of-stake
     bool IsProofOfStake() const
     {
         return (vtx.size() > 1 && vtx[1].IsCoinStake());
@@ -930,7 +930,7 @@ public:
         return IsProofOfStake()? std::make_pair(vtx[1].vin[0].prevout, vtx[1].nTime) : std::make_pair(COutPoint(), (unsigned int)0);
     }
 
-    // sprouts: get max transaction timestamp
+    // stronghands: get max transaction timestamp
     int64 GetMaxTransactionTime() const
     {
         int64 maxTransactionTime = 0;
@@ -1081,10 +1081,10 @@ public:
     bool AddToBlockIndex(unsigned int nFile, unsigned int nBlockPos);
     bool CheckBlock() const;
     bool AcceptBlock();
-    bool GetCoinAge(uint64& nCoinAge) const; // sprouts: calculate total coin age spent in block
+    bool GetCoinAge(uint64& nCoinAge) const; // stronghands: calculate total coin age spent in block
     bool SignBlock(const CKeyStore& keystore);
     bool CheckBlockSignature() const;
-    unsigned int GetStakeEntropyBit() const; // sprouts: entropy bit for stake modifier if chosen by modifier
+    unsigned int GetStakeEntropyBit() const; // stronghands: entropy bit for stake modifier if chosen by modifier
 
 private:
     bool SetBestChainInner(CTxDB& txdb, CBlockIndex *pindexNew);
@@ -1110,12 +1110,12 @@ public:
     CBlockIndex* pnext;
     unsigned int nFile;
     unsigned int nBlockPos;
-    CBigNum bnChainTrust; // sprouts: trust score of block chain
+    CBigNum bnChainTrust; // stronghands: trust score of block chain
     int nHeight;
     int64 nMint;
     int64 nMoneySupply;
 
-    unsigned int nFlags;  // sprouts: block index flags
+    unsigned int nFlags;  // stronghands: block index flags
     enum  
     {
         BLOCK_PROOF_OF_STAKE = (1 << 0), // is proof-of-stake block

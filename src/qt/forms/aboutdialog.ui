@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>About Sprouts</string>
+   <string>About StrongHands</string>
   </property>
   <layout class="QHBoxLayout" name="horizontalLayout_2">
    <property name="leftMargin">
@@ -72,7 +72,7 @@
        <item>
         <widget class="QLabel" name="label">
          <property name="text">
-          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
          </property>
          <property name="textInteractionFlags">
           <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -110,14 +110,14 @@
      <item>
       <widget class="QLabel" name="label_4">
        <property name="text">
-        <string>Copyright © 2014 Sprouts Developers</string>
+        <string>Copyright © 2014 StrongHands Developers</string>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QLabel" name="label_sprouts_copyright">
+      <widget class="QLabel" name="label_stronghands_copyright">
        <property name="text">
-        <string>Copyright © 2011-2014 Sprouts Developers</string>
+        <string>Copyright © 2011-2014 StrongHands Developers</string>
        </property>
        <property name="wordWrap">
         <bool>true</bool>

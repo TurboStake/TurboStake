@@ -1,5 +1,5 @@
 // Copyright (c) 2012 The Bitcoin developers
-// Copyright (c) 2012-2013 The Sprouts developers
+// Copyright (c) 2012-2013 The StrongHands developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 #ifndef BITCOIN_VERSION_H
@@ -13,7 +13,7 @@
 
 // These need to be macro's, as version.cpp's voodoo requires it
 
-// sprouts version - intended for display purpose only
+// stronghands version - intended for display purpose only
 #define PEERUNITY_VERSION_MAJOR       0
 #define PEERUNITY_VERSION_MINOR       1
 #define PEERUNITY_VERSION_REVISION    2
@@ -25,7 +25,7 @@ static const int PEERUNITY_VERSION =
                          +     100 * PEERUNITY_VERSION_REVISION
                          +       1 * PEERUNITY_VERSION_BUILD;
 
-// sprouts version - reference for code tracking
+// stronghands version - reference for code tracking
 #define PPCOIN_VERSION_MAJOR       0
 #define PPCOIN_VERSION_MINOR       4
 #define PPCOIN_VERSION_REVISION    2

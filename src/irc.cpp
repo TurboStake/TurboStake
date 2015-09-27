@@ -295,8 +295,8 @@ void ThreadIRCSeed2(void* parg)
         } else {
             // randomly join #bitcoin00-#bitcoin99
             int channel_number = GetRandInt(4);
-            Send(hSocket, strprintf("JOIN #sprouts%02d\r", channel_number).c_str());
-            Send(hSocket, strprintf("WHO #sprouts%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("JOIN #stronghands%02d\r", channel_number).c_str());
+            Send(hSocket, strprintf("WHO #stronghands%02d\r", channel_number).c_str());
         }
 
         int64 nStart = GetTime();

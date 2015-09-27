@@ -1,5 +1,5 @@
 # Copyright (c) 2009-2010 Satoshi Nakamoto
-# Copyright (c) 2012 The Sprouts developers
+# Copyright (c) 2012 The StrongHands developers
 # Distributed under the MIT/X11 software license, see the accompanying
 # file license.txt or http://www.opensource.org/licenses/mit-license.php.
 
@@ -51,10 +51,10 @@
 #     mkdir miniupnpc
 #     cp *.h miniupnpc/
 #
-# - Build sproutsd.exe
+# - Build stronghandsd.exe
 #   in MinGW MSYS
-#     cd sprouts/src
-#     make sproutsd.exe -f makefile.mingw USE_UPNP=1
+#     cd stronghands/src
+#     make stronghandsd.exe -f makefile.mingw USE_UPNP=1
 #
 #
 
@@ -122,12 +122,12 @@ OBJS= \
     obj/kernel.o
 
 
-all: sproutsd.exe
+all: stronghandsd.exe
 
 obj/%.o: %.cpp $(HEADERS)
 	g++ -c $(CFLAGS) -o $@ $<
 
-sproutsd.exe: $(OBJS:obj/%=obj/%)
+stronghandsd.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -135,11 +135,11 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	g++ -c $(TESTDEFS) $(CFLAGS) -o $@ $<
 
-test_sprouts.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
+test_stronghands.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
 	g++ $(CFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework $(LIBS)
 
 clean:
-	-del /Q sproutsd test_sprouts
+	-del /Q stronghandsd test_stronghands
 	-del /Q obj\*
 	-del /Q obj-test\*
 	-del /Q build.h

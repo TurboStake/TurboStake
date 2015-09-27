@@ -4,17 +4,17 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
-        <translation>A propos de Sprouts</translation>
+        <source>About StrongHands</source>
+        <translation>A propos de StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="53"/>
-        <source>&lt;b&gt;Sprouts&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Sprouts&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;StrongHands&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;StrongHands&lt;/b&gt; version</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="85"/>
-        <source>Copyright © 2011-2013 Sprouts Developers
+        <source>Copyright © 2011-2013 StrongHands Developers
 
 This is experimental software.
 
@@ -33,8 +33,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ceux-ci sont vos adresses Sprouts qui vous permettent de recevoir des paiements.  Vous pouvez en donner une différente à chaque expédieur afin de savoir qui vous payent.</translation>
+        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ceux-ci sont vos adresses StrongHands qui vous permettent de recevoir des paiements.  Vous pouvez en donner une différente à chaque expédieur afin de savoir qui vous payent.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -220,7 +220,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="102"/>
-        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SproutsS&lt;/b&gt;!
+        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR StrongHandsS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
         <translation type="unfinished"/>
     </message>
@@ -232,7 +232,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="112"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
+        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -284,10 +284,10 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
 </context>
 <context>
-    <name>SproutsGUI</name>
+    <name>StrongHandsGUI</name>
     <message>
         <location filename="../bitcoingui.cpp" line="69"/>
-        <source>Sprouts Wallet</source>
+        <source>StrongHands Wallet</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -348,7 +348,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="201"/>
-        <source>Send coins to a Sprouts address</source>
+        <source>Send coins to a StrongHands address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -378,7 +378,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="231"/>
-        <source>Show information about Sprouts</source>
+        <source>Show information about StrongHands</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -398,17 +398,17 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="237"/>
-        <source>Modify configuration options for Sprouts</source>
+        <source>Modify configuration options for StrongHands</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="239"/>
-        <source>Open &amp;Sprouts</source>
+        <source>Open &amp;StrongHands</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="240"/>
-        <source>Show the Sprouts window</source>
+        <source>Show the StrongHands window</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -483,12 +483,12 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="407"/>
-        <source>Sprouts-qt</source>
+        <source>StrongHands-qt</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="449"/>
-        <source>%n active connection(s) to Sprouts network</source>
+        <source>%n active connection(s) to StrongHands network</source>
         <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
@@ -668,7 +668,7 @@ Address: %4
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -686,12 +686,12 @@ Address: %4
     <name>MainOptionsPage</name>
     <message>
         <location filename="../optionsdialog.cpp" line="170"/>
-        <source>&amp;Start Sprouts on window system startup</source>
+        <source>&amp;Start StrongHands on window system startup</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="171"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
+        <source>Automatically start StrongHands after the computer is turned on</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -711,7 +711,7 @@ Address: %4
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="181"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1168,7 +1168,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a StrongHands address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1617,10 +1617,10 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Sprouts-core</name>
+    <name>StrongHands-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="3"/>
-        <source>Sprouts version</source>
+        <source>StrongHands version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1630,7 +1630,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="5"/>
-        <source>Send command to -server or sproutsd</source>
+        <source>Send command to -server or stronghandsd</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1650,12 +1650,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="9"/>
-        <source>Specify configuration file (default: Sprouts.conf)</source>
+        <source>Specify configuration file (default: StrongHands.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="10"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
+        <source>Specify pid file (default: stronghandsd.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1831,7 +1831,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitcoinstrings.cpp" line="47"/>
         <source>
-SSL options: (see the Sprouts Wiki for SSL setup instructions)</source>
+SSL options: (see the StrongHands Wiki for SSL setup instructions)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1861,7 +1861,7 @@ SSL options: (see the Sprouts Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1886,12 +1886,12 @@ SSL options: (see the Sprouts Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="66"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="67"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
+        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1946,12 +1946,12 @@ SSL options: (see the Sprouts Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
+        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>

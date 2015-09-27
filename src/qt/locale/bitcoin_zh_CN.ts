@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
-        <translation>关于Sprouts</translation>
+        <source>About StrongHands</source>
+        <translation>关于StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Sprouts Developers</source>
-        <translation>版权归Sprouts开发者所有 © 2014 Sprouts Developers</translation>
+        <source>Copyright © 2014 StrongHands Developers</source>
+        <translation>版权归StrongHands开发者所有 © 2014 StrongHands Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Sprouts Developers</source>
-        <translation>版权归Sprouts开发者所有  © 2011-2014 Sprouts Developers</translation>
+        <source>Copyright © 2011-2014 StrongHands Developers</source>
+        <translation>版权归StrongHands开发者所有  © 2011-2014 StrongHands Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -33,7 +33,7 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file license.txt or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished">版权归比特币开发者所有  © 2009-2013 Sprouts Developers
+        <translation type="unfinished">版权归比特币开发者所有  © 2009-2013 StrongHands Developers
 
 这是一个实验性软件。
 
@@ -51,7 +51,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -268,7 +268,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
+        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -384,7 +384,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Sprouts</source>
+        <source>Show information about StrongHands</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -499,38 +499,38 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Sprouts Wallet</source>
-        <translation>Sprouts钱包</translation>
+        <source>StrongHands Wallet</source>
+        <translation>StrongHands钱包</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Sprouts address</source>
-        <translation>向一个Sprouts地址发送币</translation>
+        <source>Send coins to a StrongHands address</source>
+        <translation>向一个StrongHands地址发送币</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Sprouts</source>
-        <translation>关于Sprouts(&amp;A)</translation>
+        <source>&amp;About StrongHands</source>
+        <translation>关于StrongHands(&amp;A)</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Sprouts</source>
+        <source>Modify configuration options for StrongHands</source>
         <translation>设置选项</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Sprouts</source>
-        <translation>显示/隐藏&amp;Sprouts</translation>
+        <source>Show/Hide &amp;StrongHands</source>
+        <translation>显示/隐藏&amp;StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Sprouts window</source>
+        <source>Show or hide the StrongHands window</source>
         <translation>显示或隐藏主窗口</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Sprouts client</source>
-        <translation>Sprouts客户端</translation>
+        <source>StrongHands client</source>
+        <translation>StrongHands客户端</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -539,9 +539,9 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Sprouts network</source>
+        <source>%n active connection(s) to StrongHands network</source>
         <translation>
-            <numerusform>%n条到Sprouts网络的活动连接</numerusform>
+            <numerusform>%n条到StrongHands网络的活动连接</numerusform>
         </translation>
     </message>
     <message>
@@ -674,8 +674,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Sprouts can no longer continue safely and will quit.</source>
-        <translation>发生致命错误。Sprouts无法继续安全运行，将要退出。</translation>
+        <source>A fatal error occured. StrongHands can no longer continue safely and will quit.</source>
+        <translation>发生致命错误。StrongHands无法继续安全运行，将要退出。</translation>
     </message>
 </context>
 <context>
@@ -712,7 +712,7 @@ Address: %4
         <location filename="../forms/coincontroldialog.ui" line="310"/>
         <location filename="../forms/coincontroldialog.ui" line="348"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SPRTS</translation>
+        <translation>0.00 SHND</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="157"/>
@@ -980,7 +980,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Sprouts addresses in the transaction list</source>
+        <source>Whether to show StrongHands addresses in the transaction list</source>
         <translation>是否需要在交易清单中显示币地址</translation>
     </message>
     <message>
@@ -1048,7 +1048,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1091,8 +1091,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自动在路由器中打开Sprouts端口。只有当您的路由器支持并开启了 UPnP 选项时此功能才有效。</translation>
+        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自动在路由器中打开StrongHands端口。只有当您的路由器支持并开启了 UPnP 选项时此功能才有效。</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1126,7 +1126,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SPRTS fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SHND fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1146,13 +1146,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Sprouts on window system startup</source>
-        <translation>系统启动时运行Sprouts(&amp;S)</translation>
+        <source>&amp;Start StrongHands on window system startup</source>
+        <translation>系统启动时运行StrongHands(&amp;S)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
-        <translation>计算机启动后自动开启Sprouts客户端</translation>
+        <source>Automatically start StrongHands after the computer is turned on</source>
+        <translation>计算机启动后自动开启StrongHands客户端</translation>
     </message>
 </context>
 <context>
@@ -1436,8 +1436,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SPRTS</source>
-        <translation>SPRTS</translation>
+        <source>SHND</source>
+        <translation>SHND</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1479,8 +1479,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Sprouts (Sprouts) debug window</source>
-        <translation>Sprouts (Sprouts)调试窗口</translation>
+        <source>StrongHands (StrongHands) debug window</source>
+        <translation>StrongHands (StrongHands)调试窗口</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1571,8 +1571,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Sprouts RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>欢迎来到Sprouts RPC 控制台。&lt;br&gt;使用上下方向键浏览历史,  &lt;b&gt;Ctrl-L&lt;/b&gt;清除屏幕。&lt;br&gt;使用 &lt;b&gt;help&lt;/b&gt; 命令显示帮助信息。</translation>
+        <source>Welcome to the StrongHands RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>欢迎来到StrongHands RPC 控制台。&lt;br&gt;使用上下方向键浏览历史,  &lt;b&gt;Ctrl-L&lt;/b&gt;清除屏幕。&lt;br&gt;使用 &lt;b&gt;help&lt;/b&gt; 命令显示帮助信息。</translation>
     </message>
 </context>
 <context>
@@ -1636,7 +1636,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <location filename="../forms/sendcoinsdialog.ui" line="496"/>
         <location filename="../forms/sendcoinsdialog.ui" line="528"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SPRTS</translation>
+        <translation>0.00 SHND</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="337"/>
@@ -1805,7 +1805,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Sprouts address</source>
+        <source>Enter a StrongHands address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1894,8 +1894,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address</source>
-        <translation>输入Sprouts地址</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>输入StrongHands地址</translation>
     </message>
 </context>
 <context>
@@ -1959,7 +1959,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Sprouts address</source>
+        <source>Sign the message to prove you own this StrongHands address</source>
         <translation>签名消息，证明这个地址属于您</translation>
     </message>
     <message>
@@ -1995,8 +1995,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Sprouts address</source>
-        <translation>验证消息，确保消息是由指定的Sprouts地址签名过的</translation>
+        <source>Verify the message to ensure it was signed with the specified StrongHands address</source>
+        <translation>验证消息，确保消息是由指定的StrongHands地址签名过的</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2021,8 +2021,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Sprouts address</source>
-        <translation>输入一个Sprouts地址</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>输入一个StrongHands地址</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2578,18 +2578,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
+        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
         <translation>无法绑定本机端口 %s Perunity可能已经在运行。</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Sprouts version</source>
-        <translation>Sprouts版本</translation>
+        <source>StrongHands version</source>
+        <translation>StrongHands版本</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or sproutsd</source>
-        <translation>向 -server或 sproutsd发命令</translation>
+        <source>Send command to -server or stronghandsd</source>
+        <translation>向 -server或 stronghandsd发命令</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2608,13 +2608,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: sprouts.conf)</source>
-        <translation>指定配置文件 (默认为 sprouts.conf)</translation>
+        <source>Specify configuration file (default: stronghands.conf)</source>
+        <translation>指定配置文件 (默认为 stronghands.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
-        <translation>指定 pid 文件 (默认为 sproutsd.pid)
+        <source>Specify pid file (default: stronghandsd.pid)</source>
+        <translation>指定 pid 文件 (默认为 stronghandsd.pid)
 </translation>
     </message>
     <message>
@@ -2883,23 +2883,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
-        <translation>无法锁住数据目录%s。Sprouts可能已经在运行中。</translation>
+        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
+        <translation>无法锁住数据目录%s。StrongHands可能已经在运行中。</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Sprouts</source>
-        <translation>Sprouts</translation>
+        <source>StrongHands</source>
+        <translation>StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
-        <translation>wallet.dat钱包文件加载错误：钱包需要更新版本的Sprouts</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
+        <translation>wallet.dat钱包文件加载错误：钱包需要更新版本的StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
-        <translation>钱包文件需要被重写：请重新启动Sprouts客户端</translation>
+        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
+        <translation>钱包文件需要被重写：请重新启动StrongHands客户端</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2915,8 +2915,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
-        <translation>警告：请检查电脑的日期时间设置是否正确。时间错误可能会导致Sprouts客户端运行异常。</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
+        <translation>警告：请检查电脑的日期时间设置是否正确。时间错误可能会导致StrongHands客户端运行异常。</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

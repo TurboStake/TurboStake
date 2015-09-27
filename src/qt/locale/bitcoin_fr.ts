@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
-        <translation>À propos de Sprouts</translation>
+        <source>About StrongHands</source>
+        <translation>À propos de StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Sprouts Developers</source>
-        <translation>Copyright © 2014 Développeurs de Sprouts</translation>
+        <source>Copyright © 2014 StrongHands Developers</source>
+        <translation>Copyright © 2014 Développeurs de StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Sprouts Developers</source>
-        <translation>Copyright © 2011-2014 Développeurs de Sprouts</translation>
+        <source>Copyright © 2011-2014 StrongHands Developers</source>
+        <translation>Copyright © 2011-2014 Développeurs de StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -51,8 +51,8 @@ Ce produit inclut des logiciels développés par le projet OpenSSL pour utilisat
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Voici vos adresses Sprouts pour recevoir des paiements.  Vous pouvez en communiquer une différente à chacun de vos expéditeurs afin de pouvoir identifier qui vous paie.</translation>
+        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Voici vos adresses StrongHands pour recevoir des paiements.  Vous pouvez en communiquer une différente à chacun de vos expéditeurs afin de pouvoir identifier qui vous paie.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -269,8 +269,8 @@ Etes-vous sûr de vouloir crypter votre porte-monnaie ?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
-        <translation>Sprouts va maintenant se fermer pour terminer le processus de chiffrement. Sachez que le chiffrement de votre portefeuille ne peut pas vous protéger totalement contre le vol de vos Sproutss par des logiciels malveillants qui auraient infecté votre ordinateur.</translation>
+        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
+        <translation>StrongHands va maintenant se fermer pour terminer le processus de chiffrement. Sachez que le chiffrement de votre portefeuille ne peut pas vous protéger totalement contre le vol de vos StrongHandss par des logiciels malveillants qui auraient infecté votre ordinateur.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -385,8 +385,8 @@ Etes-vous sûr de vouloir crypter votre porte-monnaie ?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Sprouts</source>
-        <translation>Afficher des informations sur Sprouts</translation>
+        <source>Show information about StrongHands</source>
+        <translation>Afficher des informations sur StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -500,38 +500,38 @@ Etes-vous sûr de vouloir crypter votre porte-monnaie ?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Sprouts Wallet</source>
-        <translation>Porte-monnaie Sprouts</translation>
+        <source>StrongHands Wallet</source>
+        <translation>Porte-monnaie StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Sprouts address</source>
-        <translation>Envoyer des pièces à une adresse Sprouts</translation>
+        <source>Send coins to a StrongHands address</source>
+        <translation>Envoyer des pièces à une adresse StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Sprouts</source>
-        <translation>&amp;À propos de Sprouts</translation>
+        <source>&amp;About StrongHands</source>
+        <translation>&amp;À propos de StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Sprouts</source>
-        <translation>Modifier la configuration des options pour Sprouts</translation>
+        <source>Modify configuration options for StrongHands</source>
+        <translation>Modifier la configuration des options pour StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Sprouts</source>
-        <translation>Afficher/Masquer &amp;Sprouts</translation>
+        <source>Show/Hide &amp;StrongHands</source>
+        <translation>Afficher/Masquer &amp;StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Sprouts window</source>
-        <translation>Afficher ou masquer la fenêtre Sprouts</translation>
+        <source>Show or hide the StrongHands window</source>
+        <translation>Afficher ou masquer la fenêtre StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Sprouts client</source>
-        <translation>Client Sprouts</translation>
+        <source>StrongHands client</source>
+        <translation>Client StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -540,7 +540,7 @@ Etes-vous sûr de vouloir crypter votre porte-monnaie ?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Sprouts network</source>
+        <source>%n active connection(s) to StrongHands network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -681,8 +681,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Sprouts can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a eu lieu. Sprouts ne peut plus continuer de manière sure et va se fermer.</translation>
+        <source>A fatal error occured. StrongHands can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a eu lieu. StrongHands ne peut plus continuer de manière sure et va se fermer.</translation>
     </message>
 </context>
 <context>
@@ -719,7 +719,7 @@ Adresse : %4
         <location filename="../forms/coincontroldialog.ui" line="310"/>
         <location filename="../forms/coincontroldialog.ui" line="348"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SPRTS</translation>
+        <translation>0.00 SHND</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="157"/>
@@ -987,8 +987,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Sprouts addresses in the transaction list</source>
-        <translation>Afficher ou non les adresses Sprouts dans la liste des transactions</translation>
+        <source>Whether to show StrongHands addresses in the transaction list</source>
+        <translation>Afficher ou non les adresses StrongHands dans la liste des transactions</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1055,8 +1055,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
-        <translation>L&apos;adresse saisie &quot;%1&quot; n&apos;est pas une adresse Sprouts valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
+        <translation>L&apos;adresse saisie &quot;%1&quot; n&apos;est pas une adresse StrongHands valide.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1098,8 +1098,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquement le port du client Sprouts sur le routeur. Ceci ne fonctionne que si votre routeur supporte UPnP et l&apos;a activé.</translation>
+        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquement le port du client StrongHands sur le routeur. Ceci ne fonctionne que si votre routeur supporte UPnP et l&apos;a activé.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1109,7 +1109,7 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Connexion au réseau Sprouts à travers un proxy SOCKS4 (par ex. lors d&apos;une connexion via Tor)</translation>
+        <translation>Connexion au réseau StrongHands à travers un proxy SOCKS4 (par ex. lors d&apos;une connexion via Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1133,8 +1133,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SPRTS fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Frais obligatoires de traitement des transactions par le réseau par ko transféré. La plupart des transactions font 1 ko pour un coût de 0,01 SPRTS. Note: la taille des transferts peut augmenter en fonction du nombre de transactions d&apos;entrée qui doivent être ajoutées pour couvrir le montant du paiement.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SHND fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Frais obligatoires de traitement des transactions par le réseau par ko transféré. La plupart des transactions font 1 ko pour un coût de 0,01 SHND. Note: la taille des transferts peut augmenter en fonction du nombre de transactions d&apos;entrée qui doivent être ajoutées pour couvrir le montant du paiement.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1153,13 +1153,13 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Sprouts on window system startup</source>
-        <translation>&amp;Démarrer Sprouts au lancement du système de fenêtrage</translation>
+        <source>&amp;Start StrongHands on window system startup</source>
+        <translation>&amp;Démarrer StrongHands au lancement du système de fenêtrage</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
-        <translation>Démarrer automatiquement Sprouts après la mise en marche de l&apos;ordinateur</translation>
+        <source>Automatically start StrongHands after the computer is turned on</source>
+        <translation>Démarrer automatiquement StrongHands après la mise en marche de l&apos;ordinateur</translation>
     </message>
 </context>
 <context>
@@ -1443,8 +1443,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SPRTS</source>
-        <translation>SPRTS</translation>
+        <source>SHND</source>
+        <translation>SHND</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1486,8 +1486,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Sprouts (Sprouts) debug window</source>
-        <translation>Fenêtre de débogage de Sprouts</translation>
+        <source>StrongHands (StrongHands) debug window</source>
+        <translation>Fenêtre de débogage de StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1578,8 +1578,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Sprouts RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Bienvenue dans la console RPC de Sprouts.&lt;br&gt;Utilisez les flèches haut et bas pour naviguer dans l&apos;historique, et &lt;b&gt;Ctrl-L&lt;/b&gt; pour nettoyer l&apos;écran.&lt;br&gt;Tapper &lt;b&gt;help&lt;/b&gt; pour avoir un aperçu des commandes disponibles.</translation>
+        <source>Welcome to the StrongHands RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Bienvenue dans la console RPC de StrongHands.&lt;br&gt;Utilisez les flèches haut et bas pour naviguer dans l&apos;historique, et &lt;b&gt;Ctrl-L&lt;/b&gt; pour nettoyer l&apos;écran.&lt;br&gt;Tapper &lt;b&gt;help&lt;/b&gt; pour avoir un aperçu des commandes disponibles.</translation>
     </message>
 </context>
 <context>
@@ -1643,7 +1643,7 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
         <location filename="../forms/sendcoinsdialog.ui" line="496"/>
         <location filename="../forms/sendcoinsdialog.ui" line="528"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SPRTS</translation>
+        <translation>0.00 SHND</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="337"/>
@@ -1793,7 +1793,7 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     <message>
         <location filename="../sendcoinsdialog.cpp" line="457"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Attention : Adresse Sprouts invalide</translation>
+        <translation>Attention : Adresse StrongHands invalide</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="466"/>
@@ -1812,8 +1812,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Entrez une adresse Sprouts</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Entrez une adresse StrongHands</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1901,8 +1901,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Entrez une adresse Sprouts</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Entrez une adresse StrongHands</translation>
     </message>
 </context>
 <context>
@@ -1966,8 +1966,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Sprouts address</source>
-        <translation>Signez le message pour prouver que vous possédez cette adresse Sprouts</translation>
+        <source>Sign the message to prove you own this StrongHands address</source>
+        <translation>Signez le message pour prouver que vous possédez cette adresse StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -2002,8 +2002,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Sprouts address</source>
-        <translation>Vérifiez le message pour vous assurer qu&apos;il a été signé par l&apos;adresse Sprouts spécifiée</translation>
+        <source>Verify the message to ensure it was signed with the specified StrongHands address</source>
+        <translation>Vérifiez le message pour vous assurer qu&apos;il a été signé par l&apos;adresse StrongHands spécifiée</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2028,8 +2028,8 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Entrez une adresse Sprouts</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Entrez une adresse StrongHands</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2587,18 +2587,18 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
-        <translation>Impossible de se lier au port %d de cet ordinateur. Sprouts est probablement déjà en cours de fonctionnement.</translation>
+        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
+        <translation>Impossible de se lier au port %d de cet ordinateur. StrongHands est probablement déjà en cours de fonctionnement.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Sprouts version</source>
-        <translation>Version de Sprouts</translation>
+        <source>StrongHands version</source>
+        <translation>Version de StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or sproutsd</source>
-        <translation>Envoyer une commande à -server ou à sproutsd</translation>
+        <source>Send command to -server or stronghandsd</source>
+        <translation>Envoyer une commande à -server ou à stronghandsd</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2617,13 +2617,13 @@ Cette étiquette devient rouge si la priorité est inférieure à &quot;moyenne&
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: sprouts.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut : sprouts.conf)</translation>
+        <source>Specify configuration file (default: stronghands.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut : stronghands.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut : sproutsd.pid)</translation>
+        <source>Specify pid file (default: stronghandsd.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut : stronghandsd.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2878,23 +2878,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
-        <translation>Impossible d&apos;obtenir un verrou pour le répertoire des données %s.  Sprouts est probablement déjà en cours de fonctionnement.</translation>
+        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
+        <translation>Impossible d&apos;obtenir un verrou pour le répertoire des données %s.  StrongHands est probablement déjà en cours de fonctionnement.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Sprouts</source>
-        <translation>Sprouts</translation>
+        <source>StrongHands</source>
+        <translation>StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
-        <translation>Erreur lors du chargement de wallet.dat : Le porte-monnaie nécessite une version plus récente de Sprouts</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
+        <translation>Erreur lors du chargement de wallet.dat : Le porte-monnaie nécessite une version plus récente de StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
-        <translation>Le porte-monnaie a besoin d&apos;être réécrit : redémarrez Sprouts pour compléter le processus</translation>
+        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
+        <translation>Le porte-monnaie a besoin d&apos;être réécrit : redémarrez StrongHands pour compléter le processus</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2910,8 +2910,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
-        <translation>Attention : Veuillez vérifier que la date et l&apos;heure de votre ordinateur sont correctes.  Si votre horloge n&apos;est pas à l&apos;heure Sprouts ne fonctionnera pas correctement.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
+        <translation>Attention : Veuillez vérifier que la date et l&apos;heure de votre ordinateur sont correctes.  Si votre horloge n&apos;est pas à l&apos;heure StrongHands ne fonctionnera pas correctement.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

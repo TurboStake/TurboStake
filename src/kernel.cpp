@@ -1,4 +1,4 @@
-// Copyright (c) 2012-2013 The Sprouts developers
+// Copyright (c) 2012-2013 The StrongHands developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -30,8 +30,6 @@ unsigned int nModifierInterval = MODIFIER_INTERVAL;
 static std::map<int, unsigned int> mapStakeModifierCheckpoints =
     boost::assign::map_list_of
     ( 0, 0x0e00670bu )
-    ( 11800, 0x03c7a0b31)
-    ( 35893, 0x0e49ce206)
     ;
 
 // Whether the given coinstake is subject to new v0.3 protocol
@@ -286,7 +284,7 @@ static bool GetKernelStakeModifier(uint256 hashBlockFrom, uint64& nStakeModifier
     return true;
 }
 
-// sprouts kernel protocol
+// stronghands kernel protocol
 // coinstake must meet hash target according to the protocol:
 // kernel (input 0) must meet the formula
 //     hash(nStakeModifier + txPrev.block.nTime + txPrev.offset + txPrev.nTime + txPrev.vout.n + nTime) < bnTarget * nCoinDayWeight

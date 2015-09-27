@@ -501,7 +501,7 @@ void CoinControlDialog::updateLabels(WalletModel *model, QDialog* dialog)
                 nPayFee += nMoveToFee;
             }
 
-            // sprouts: sub-cent change is moved to fee
+            // stronghands: sub-cent change is moved to fee
             if (nChange > 0 && nChange < MIN_TXOUT_AMOUNT)
             {
                 nPayFee += nChange;

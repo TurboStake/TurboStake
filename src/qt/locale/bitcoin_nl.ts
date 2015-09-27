@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
-        <translation>Over Sprouts</translation>
+        <source>About StrongHands</source>
+        <translation>Over StrongHands</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Sprouts Developers</source>
-        <translation>Copyright © 2014 Sprouts Developers</translation>
+        <source>Copyright © 2014 StrongHands Developers</source>
+        <translation>Copyright © 2014 StrongHands Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Sprouts Developers</source>
-        <translation>Copyright © 2011-2014 Sprouts Developers</translation>
+        <source>Copyright © 2011-2014 StrongHands Developers</source>
+        <translation>Copyright © 2011-2014 StrongHands Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Dit product bevat code ontwikkeld door het OpenSSL project voor het gebruik in h
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn je Sprouts adressen om bedragen te ontvangen. Je kan een verschillend adres opgeven voor iedere geaddresseerde zodat je kan achterhalen wie jouw betaalt.</translation>
+        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn je StrongHands adressen om bedragen te ontvangen. Je kan een verschillend adres opgeven voor iedere geaddresseerde zodat je kan achterhalen wie jouw betaalt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
-        <translation>Sprouts sluit nu af om het versleutelings proces te beeindigen. Onthoud dat het versleutelen van de portemonnee je Sproutss niet volledig kan beschermen tegen schadelijke software op een geinfecteerde computer</translation>
+        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
+        <translation>StrongHands sluit nu af om het versleutelings proces te beeindigen. Onthoud dat het versleutelen van de portemonnee je StrongHandss niet volledig kan beschermen tegen schadelijke software op een geinfecteerde computer</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Sprouts</source>
-        <translation>Toon informatie over Sprouts</translation>
+        <source>Show information about StrongHands</source>
+        <translation>Toon informatie over StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Sprouts Wallet</source>
-        <translation>Sprouts portemonnee</translation>
+        <source>StrongHands Wallet</source>
+        <translation>StrongHands portemonnee</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Sprouts address</source>
-        <translation>Zend munten naar een Sprouts adres</translation>
+        <source>Send coins to a StrongHands address</source>
+        <translation>Zend munten naar een StrongHands adres</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Sprouts</source>
-        <translation>Over Sprouts</translation>
+        <source>&amp;About StrongHands</source>
+        <translation>Over StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Sprouts</source>
-        <translation>Wijzig configuratie opties voor Sprouts</translation>
+        <source>Modify configuration options for StrongHands</source>
+        <translation>Wijzig configuratie opties voor StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Sprouts</source>
-        <translation>Toon/Verberg &amp;Sprouts</translation>
+        <source>Show/Hide &amp;StrongHands</source>
+        <translation>Toon/Verberg &amp;StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Sprouts window</source>
-        <translation>Toon of verberg het Sprouts scherm</translation>
+        <source>Show or hide the StrongHands window</source>
+        <translation>Toon of verberg het StrongHands scherm</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Sprouts client</source>
-        <translation>Sprouts client</translation>
+        <source>StrongHands client</source>
+        <translation>StrongHands client</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Weet je zeker dat je de portemonee wilt versleutelen?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Sprouts network</source>
+        <source>%n active connection(s) to StrongHands network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -678,8 +678,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Sprouts can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout heeft plaatsgevonden. Sprouts kan niet langer veilig doorgaan en zal afsluiten.</translation>
+        <source>A fatal error occured. StrongHands can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout heeft plaatsgevonden. StrongHands kan niet langer veilig doorgaan en zal afsluiten.</translation>
     </message>
 </context>
 <context>
@@ -976,8 +976,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Sprouts addresses in the transaction list</source>
-        <translation>Toon Sproutsadressen in transactielijst</translation>
+        <source>Whether to show StrongHands addresses in the transaction list</source>
+        <translation>Toon StrongHandsadressen in transactielijst</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1044,8 +1044,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Sprouts adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig StrongHands adres.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1087,8 +1087,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open automatisch de Sprouts client poort op de router. Dit werkt alleen indien je router PnP ondersteund en het geactiveerd is.</translation>
+        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open automatisch de StrongHands client poort op de router. Dit werkt alleen indien je router PnP ondersteund en het geactiveerd is.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1098,7 +1098,7 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Verbind met het Sprouts-netwerk door een SOCKS4 proxy (bijv. wanneer Tor gebruikt wordt)</translation>
+        <translation>Verbind met het StrongHands-netwerk door een SOCKS4 proxy (bijv. wanneer Tor gebruikt wordt)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1122,8 +1122,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SPRTS fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Verplichte network transactie kosten per verstuurde kB. De meeste transacties zijn 1kB en kosten 0.01 SPRTS. Opm. Het aantal verstuurde kB neemt toe afhankelijk van het aantal ingebrachte transacties benodigd om de betaling te kunnen bekostigen.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SHND fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Verplichte network transactie kosten per verstuurde kB. De meeste transacties zijn 1kB en kosten 0.01 SHND. Opm. Het aantal verstuurde kB neemt toe afhankelijk van het aantal ingebrachte transacties benodigd om de betaling te kunnen bekostigen.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1142,13 +1142,13 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Sprouts on window system startup</source>
-        <translation>Start Sprouts als windows wordt geladen</translation>
+        <source>&amp;Start StrongHands on window system startup</source>
+        <translation>Start StrongHands als windows wordt geladen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
-        <translation>Start Sprouts automatisch nadat de computer is ingeschakeld</translation>
+        <source>Automatically start StrongHands after the computer is turned on</source>
+        <translation>Start StrongHands automatisch nadat de computer is ingeschakeld</translation>
     </message>
 </context>
 <context>
@@ -1432,8 +1432,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SPRTS</source>
-        <translation>SPRTS</translation>
+        <source>SHND</source>
+        <translation>SHND</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1475,8 +1475,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Sprouts (Sprouts) debug window</source>
-        <translation>Sprouts (PPcoin) debug scherm</translation>
+        <source>StrongHands (StrongHands) debug window</source>
+        <translation>StrongHands (PPcoin) debug scherm</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1567,8 +1567,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Sprouts RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Welkom bij de Sprouts RPC console. &lt;br&gt;Gebruik pijltjes naar boven en naar beneden om de geschiedenis te navigeren, en &lt;b&gt;Ctrl-L&lt;/b&gt; om het scherm te wissen.&lt;br&gt;Typ &lt;b&gt;help&lt;/b&gt; voor een overzicht met commandos.</translation>
+        <source>Welcome to the StrongHands RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Welkom bij de StrongHands RPC console. &lt;br&gt;Gebruik pijltjes naar boven en naar beneden om de geschiedenis te navigeren, en &lt;b&gt;Ctrl-L&lt;/b&gt; om het scherm te wissen.&lt;br&gt;Typ &lt;b&gt;help&lt;/b&gt; voor een overzicht met commandos.</translation>
     </message>
 </context>
 <context>
@@ -1782,7 +1782,7 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <message>
         <location filename="../sendcoinsdialog.cpp" line="457"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Waarschuwing: Ongeldig Sprouts adres</translation>
+        <translation>Waarschuwing: Ongeldig StrongHands adres</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="466"/>
@@ -1801,8 +1801,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Voer een Sprouts adres in</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Voer een StrongHands adres in</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1890,8 +1890,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Voer een Sprouts adres in</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Voer een StrongHands adres in</translation>
     </message>
 </context>
 <context>
@@ -1955,8 +1955,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Sprouts address</source>
-        <translation>Bewijs dat je dit Sprouts adres bezit door het te ondertekenen </translation>
+        <source>Sign the message to prove you own this StrongHands address</source>
+        <translation>Bewijs dat je dit StrongHands adres bezit door het te ondertekenen </translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1991,8 +1991,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Sprouts address</source>
-        <translation>Verifieer het bericht om vast te stellen dat het bericht ondertekend was met het gespecificeerde Sprouts adres</translation>
+        <source>Verify the message to ensure it was signed with the specified StrongHands address</source>
+        <translation>Verifieer het bericht om vast te stellen dat het bericht ondertekend was met het gespecificeerde StrongHands adres</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2017,8 +2017,8 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Voer een Sprouts adres in</translation>
+        <source>Enter a StrongHands address</source>
+        <translation>Voer een StrongHands adres in</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2576,18 +2576,18 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
-        <translation>Onmogelijk om poort %d te verbinden op deze computer. Sprouts is mogelijk al eerder opgestart.</translation>
+        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
+        <translation>Onmogelijk om poort %d te verbinden op deze computer. StrongHands is mogelijk al eerder opgestart.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Sprouts version</source>
-        <translation>Sprouts versie</translation>
+        <source>StrongHands version</source>
+        <translation>StrongHands versie</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or sproutsd</source>
-        <translation>Zend commando naar -server of sproutsd</translation>
+        <source>Send command to -server or stronghandsd</source>
+        <translation>Zend commando naar -server of stronghandsd</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2609,13 +2609,13 @@ Bedragen kleiner dan 0.546 keer de minimum vergoeding worden weergegeven als STO
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: sprouts.conf)</source>
-        <translation>Configuratiebestand specificeren (standaard: sprouts.conf)</translation>
+        <source>Specify configuration file (default: stronghands.conf)</source>
+        <translation>Configuratiebestand specificeren (standaard: stronghands.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
-        <translation>Specifieer pid-bestand (standaard: sproutsd.pid)
+        <source>Specify pid file (default: stronghandsd.pid)</source>
+        <translation>Specifieer pid-bestand (standaard: stronghandsd.pid)
 </translation>
     </message>
     <message>
@@ -2890,23 +2890,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
-        <translation>Blokkeren van data folder %s is niet gelukt. Sprouts is mogelijk al opgestart.</translation>
+        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
+        <translation>Blokkeren van data folder %s is niet gelukt. StrongHands is mogelijk al opgestart.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Sprouts</source>
-        <translation>Sprouts</translation>
+        <source>StrongHands</source>
+        <translation>StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
-        <translation>Fout geconstateerd bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van Sprouts</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
+        <translation>Fout geconstateerd bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van StrongHands</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
-        <translation>Portemonnee dient opnieuw bewerkt te worden: start Sprouts opnieuw op om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
+        <translation>Portemonnee dient opnieuw bewerkt te worden: start StrongHands opnieuw op om te voltooien</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2922,8 +2922,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
-        <translation>Waarschuwing: controleer of de datum en tijd op uw computer correct zijn. Indien uw klok verkeerd staat, zal Sprouts niet goed werken</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
+        <translation>Waarschuwing: controleer of de datum en tijd op uw computer correct zijn. Indien uw klok verkeerd staat, zal StrongHands niet goed werken</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>
