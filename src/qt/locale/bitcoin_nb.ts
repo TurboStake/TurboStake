@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About StrongHands</source>
-        <translation>Om StrongHands</translation>
+        <source>About TurboStake</source>
+        <translation>Om TurboStake</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;TurboStake&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;TurboStake&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 StrongHands Developers</source>
-        <translation>Copyright © 2014 StrongHands Utviklerne</translation>
+        <source>Copyright © 2014 TurboStake Developers</source>
+        <translation>Copyright © 2014 TurboStake Utviklerne</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 StrongHands Developers</source>
-        <translation>Copyright © 2015 StrongHands Utviklerne</translation>
+        <source>Copyright © 2011-2014 TurboStake Developers</source>
+        <translation>Copyright © 2015 TurboStake Utviklerne</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Dette produktet inneholder programvare utviklet av OpenSSL Project for bruk i Op
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine StrongHands-adresser for å motta betalinger. Du kan gi en adresse til hver enkelt som skal betale deg, slik at du kan holde orden på hvem som har betalt.</translation>
+        <source>These are your TurboStake addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine TurboStake-adresser for å motta betalinger. Du kan gi en adresse til hver enkelt som skal betale deg, slik at du kan holde orden på hvem som har betalt.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
-        <translation>StrongHands vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine peercoins fra å bli stjålet av skadevare som infiserer datamaskinen din.</translation>
+        <source>TurboStake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your TurboStakes from being stolen by malware infecting your computer.</source>
+        <translation>TurboStake vil nå lukkes for å fullføre krypteringsprosessen. Husk at kryptering av lommeboken ikke fullt ut kan beskytte dine peercoins fra å bli stjålet av skadevare som infiserer datamaskinen din.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about StrongHands</source>
-        <translation>Vis informasjon om StrongHands</translation>
+        <source>Show information about TurboStake</source>
+        <translation>Vis informasjon om TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>StrongHands Wallet</source>
-        <translation>StrongHands Lommebok</translation>
+        <source>TurboStake Wallet</source>
+        <translation>TurboStake Lommebok</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a StrongHands address</source>
-        <translation>Send mynter til en StrongHands-adresse</translation>
+        <source>Send coins to a TurboStake address</source>
+        <translation>Send mynter til en TurboStake-adresse</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About StrongHands</source>
-        <translation>&amp;Om StrongHands</translation>
+        <source>&amp;About TurboStake</source>
+        <translation>&amp;Om TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for StrongHands</source>
-        <translation>Endre oppsett for StrongHands</translation>
+        <source>Modify configuration options for TurboStake</source>
+        <translation>Endre oppsett for TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;StrongHands</source>
-        <translation>Vis/Skjul &amp;StrongHands</translation>
+        <source>Show/Hide &amp;TurboStake</source>
+        <translation>Vis/Skjul &amp;TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the StrongHands window</source>
-        <translation>Vis eller skjul StrongHands-vinduet</translation>
+        <source>Show or hide the TurboStake window</source>
+        <translation>Vis eller skjul TurboStake-vinduet</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>StrongHands client</source>
-        <translation>StrongHands klient</translation>
+        <source>TurboStake client</source>
+        <translation>TurboStake klient</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Er du sikker på at du vil kryptere lommeboken din?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to StrongHands network</source>
+        <source>%n active connection(s) to TurboStake network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -678,8 +678,8 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. StrongHands can no longer continue safely and will quit.</source>
-        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og StrongHands må derfor avslutte.</translation>
+        <source>A fatal error occured. TurboStake can no longer continue safely and will quit.</source>
+        <translation>En fatal feil har inntruffet. Det er ikke trygt å fortsette og TurboStake må derfor avslutte.</translation>
     </message>
 </context>
 <context>
@@ -716,7 +716,7 @@ Adresse: %4
         <location filename="../forms/coincontroldialog.ui" line="310"/>
         <location filename="../forms/coincontroldialog.ui" line="348"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SHND</translation>
+        <translation>0.00 trbo</translation>
     </message>
     <message>
         <location filename="../forms/coincontroldialog.ui" line="157"/>
@@ -980,8 +980,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show StrongHands addresses in the transaction list</source>
-        <translation>Om StrongHands-adresser skal vises i transaksjonslisten eller ikke.</translation>
+        <source>Whether to show TurboStake addresses in the transaction list</source>
+        <translation>Om TurboStake-adresser skal vises i transaksjonslisten eller ikke.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1048,8 +1048,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
-        <translation>Den oppgitte adressen &quot;%1&quot; er ikke en gyldig StrongHands-adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TurboStake address.</source>
+        <translation>Den oppgitte adressen &quot;%1&quot; er ikke en gyldig TurboStake-adresse.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1091,8 +1091,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åpne automatisk StrongHands klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
+        <source>Automatically open the TurboStake client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åpne automatisk TurboStake klientporten på ruteren. Dette virker kun om din ruter støtter UPnP og dette er påslått.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1102,7 +1102,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Koble til StrongHands sitt nettverket gjennom en SOCKS4-mellomtjener (f.eks. for tilkobling gjennom Tor)</translation>
+        <translation>Koble til TurboStake sitt nettverket gjennom en SOCKS4-mellomtjener (f.eks. for tilkobling gjennom Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1126,8 +1126,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SHND fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Obligatorisk transaksjonsgebyr per kB overført. De fleste transaksjonene er 1 kB og krever et gebyr på 0,01 SHND. Størrelsen på transaksjoner kan øke på grunn av mengden inntransaksjoner som kreves for å finansiere betalingen.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 trbo fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Obligatorisk transaksjonsgebyr per kB overført. De fleste transaksjonene er 1 kB og krever et gebyr på 0,01 trbo. Størrelsen på transaksjoner kan øke på grunn av mengden inntransaksjoner som kreves for å finansiere betalingen.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1146,13 +1146,13 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start StrongHands on window system startup</source>
-        <translation>&amp;Start StrongHands ved oppstart av datamaskinen</translation>
+        <source>&amp;Start TurboStake on window system startup</source>
+        <translation>&amp;Start TurboStake ved oppstart av datamaskinen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start StrongHands after the computer is turned on</source>
-        <translation>Start StrongHands automatisk når datamaskinen blir slått på</translation>
+        <source>Automatically start TurboStake after the computer is turned on</source>
+        <translation>Start TurboStake automatisk når datamaskinen blir slått på</translation>
     </message>
 </context>
 <context>
@@ -1436,8 +1436,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SHND</source>
-        <translation>SHND</translation>
+        <source>trbo</source>
+        <translation>trbo</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1479,8 +1479,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>StrongHands (StrongHands) debug window</source>
-        <translation>StrongHands feilsøkingsvindu</translation>
+        <source>TurboStake (TurboStake) debug window</source>
+        <translation>TurboStake feilsøkingsvindu</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1571,8 +1571,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the StrongHands RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Velkommen til StrongHands sin RPC-konsoll.&lt;br&gt;Bruk opp og ned pil for å navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for å tømme skjermen.&lt;br&gt;Skriv &lt;b&gt;help&lt;/b&gt; for en oversikt over kommandoer.</translation>
+        <source>Welcome to the TurboStake RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Velkommen til TurboStake sin RPC-konsoll.&lt;br&gt;Bruk opp og ned pil for å navigere historikken, og &lt;b&gt;Ctrl-L&lt;/b&gt; for å tømme skjermen.&lt;br&gt;Skriv &lt;b&gt;help&lt;/b&gt; for en oversikt over kommandoer.</translation>
     </message>
 </context>
 <context>
@@ -1636,7 +1636,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
         <location filename="../forms/sendcoinsdialog.ui" line="496"/>
         <location filename="../forms/sendcoinsdialog.ui" line="528"/>
         <source>0.00 BTC</source>
-        <translation>0.00 SHND</translation>
+        <translation>0.00 trbo</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="337"/>
@@ -1706,7 +1706,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="714"/>
         <source>123.456 BTC</source>
-        <translation>123.456 SHND</translation>
+        <translation>123.456 trbo</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="745"/>
@@ -1786,7 +1786,7 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="457"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Advarsel: Ugyldig StrongHands-adresse</translation>
+        <translation>Advarsel: Ugyldig TurboStake-adresse</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="466"/>
@@ -1805,8 +1805,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Angi en StrongHands-adresse</translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Angi en TurboStake-adresse</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1894,8 +1894,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Angi en StrongHands-adresse</translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Angi en TurboStake-adresse</translation>
     </message>
 </context>
 <context>
@@ -1959,8 +1959,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this StrongHands address</source>
-        <translation>Signer meldingen for å bevise at du eier denne StrongHands-adressen</translation>
+        <source>Sign the message to prove you own this TurboStake address</source>
+        <translation>Signer meldingen for å bevise at du eier denne TurboStake-adressen</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1995,8 +1995,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified StrongHands address</source>
-        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte StrongHands-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified TurboStake address</source>
+        <translation>Verifiser meldingen for å være sikker på at den ble signert av den angitte TurboStake-adressen</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2021,8 +2021,8 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Angi en StrongHands-adresse</translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Angi en TurboStake-adresse</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2580,18 +2580,18 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
-        <translation>Ute av stand til å binde til port %d på denne datamaskinen. StrongHands kjører sannsynligvis allerede.</translation>
+        <source>Unable to bind to port %d on this computer.  TurboStake is probably already running.</source>
+        <translation>Ute av stand til å binde til port %d på denne datamaskinen. TurboStake kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>StrongHands version</source>
-        <translation>StrongHands versjon</translation>
+        <source>TurboStake version</source>
+        <translation>TurboStake versjon</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or stronghandsd</source>
-        <translation>Send kommando til -server eller stronghandsd</translation>
+        <source>Send command to -server or TurboStaked</source>
+        <translation>Send kommando til -server eller TurboStaked</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2610,13 +2610,13 @@ Dette betyr at et gebyr på minst %2 er påkrevd.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: stronghands.conf)</source>
-        <translation>Angi konfigurasjonsfil (standardverdi: stronghands.conf)</translation>
+        <source>Specify configuration file (default: TurboStake.conf)</source>
+        <translation>Angi konfigurasjonsfil (standardverdi: TurboStake.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: stronghandsd.pid)</source>
-        <translation>Angi pid-fil (standardverdi: stronghandsd.pid)</translation>
+        <source>Specify pid file (default: TurboStaked.pid)</source>
+        <translation>Angi pid-fil (standardverdi: TurboStaked.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2871,23 +2871,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
-        <translation>Ute av stand til å låse datamappen %s. StrongHands kjører sannsynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  TurboStake is probably already running.</source>
+        <translation>Ute av stand til å låse datamappen %s. TurboStake kjører sannsynligvis allerede.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>StrongHands</source>
-        <translation>StrongHands</translation>
+        <source>TurboStake</source>
+        <translation>TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
-        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av StrongHands</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TurboStake</source>
+        <translation>Feil ved lasting av wallet.dat: Lommeboken krever en nyere versjon av TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
-        <translation>Lommeboken måtte skrives om: start StrongHands på nytt for å fullføre</translation>
+        <source>Wallet needed to be rewritten: restart TurboStake to complete</source>
+        <translation>Lommeboken måtte skrives om: start TurboStake på nytt for å fullføre</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2903,8 +2903,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
-        <translation>Advarsel: Vennligst sjekk at datamaskinens dato og tid er korrekt. Hvis klokken din er feil vil ikke StrongHands fungere skikkelig.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong TurboStake will not work properly.</source>
+        <translation>Advarsel: Vennligst sjekk at datamaskinens dato og tid er korrekt. Hvis klokken din er feil vil ikke TurboStake fungere skikkelig.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

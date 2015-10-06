@@ -1,5 +1,5 @@
 # Copyright (c) 2009-2010 Satoshi Nakamoto
-# Copyright (c) 2012 The StrongHands developers
+# Copyright (c) 2012 The TurboStake developers
 # Distributed under the MIT/X11 software license, see the accompanying
 # file license.txt or http://www.opensource.org/licenses/mit-license.php.
 
@@ -51,10 +51,10 @@
 #     mkdir miniupnpc
 #     cp *.h miniupnpc/
 #
-# - Build stronghandsd.exe
+# - Build TurboStaked.exe
 #   in MinGW MSYS
-#     cd stronghands/src
-#     make stronghandsd.exe -f makefile.mingw USE_UPNP=1
+#     cd TurboStake/src
+#     make TurboStaked.exe -f makefile.mingw USE_UPNP=1
 #
 #
 
@@ -122,12 +122,12 @@ OBJS= \
     obj/kernel.o
 
 
-all: stronghandsd.exe
+all: TurboStaked.exe
 
 obj/%.o: %.cpp $(HEADERS)
 	g++ -c $(CFLAGS) -o $@ $<
 
-stronghandsd.exe: $(OBJS:obj/%=obj/%)
+TurboStaked.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
@@ -135,11 +135,11 @@ TESTOBJS := $(patsubst test/%.cpp,obj-test/%.o,$(wildcard test/*.cpp))
 obj-test/%.o: test/%.cpp $(HEADERS)
 	g++ -c $(TESTDEFS) $(CFLAGS) -o $@ $<
 
-test_stronghands.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
+test_TurboStake.exe: $(TESTOBJS) $(filter-out obj/init.o,$(OBJS:obj/%=obj/%))
 	g++ $(CFLAGS) -o $@ $(LIBPATHS) $^ -lboost_unit_test_framework $(LIBS)
 
 clean:
-	-del /Q stronghandsd test_stronghands
+	-del /Q TurboStaked test_TurboStake
 	-del /Q obj\*
 	-del /Q obj-test\*
 	-del /Q build.h

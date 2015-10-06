@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About StrongHands</source>
-        <translation>Tentang StrongHands</translation>
+        <source>About TurboStake</source>
+        <translation>Tentang TurboStake</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;TurboStake&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;TurboStake&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 StrongHands Developers</source>
-        <translation>Copyright © 2014 StrongHands Developers</translation>
+        <source>Copyright © 2014 TurboStake Developers</source>
+        <translation>Copyright © 2014 TurboStake Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 StrongHands Developers</source>
-        <translation>Copyright © 2011-2014 StrongHands Developers</translation>
+        <source>Copyright © 2011-2014 TurboStake Developers</source>
+        <translation>Copyright © 2011-2014 TurboStake Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ Produk ini berisi software yang dikembangkan oleh OpenSSL Project untuk digunaka
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Ini adalah alamat StrongHands Anda untuk menerima pembayaran. Anda mungkin ingin memberikan yang berbeda untuk masing-masing pengirim sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
+        <source>These are your TurboStake addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Ini adalah alamat TurboStake Anda untuk menerima pembayaran. Anda mungkin ingin memberikan yang berbeda untuk masing-masing pengirim sehingga Anda dapat melacak siapa yang membayar Anda.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
-        <translation>StrongHands akan menutup sekarang untuk menyelesaikan proses enkripsi. Ingat bahwa mengenkripsi dompet Anda tidak dapat sepenuhnya melindungi StrongHandss Anda dari yang dicuri oleh malware menginfeksi komputer Anda.</translation>
+        <source>TurboStake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your TurboStakes from being stolen by malware infecting your computer.</source>
+        <translation>TurboStake akan menutup sekarang untuk menyelesaikan proses enkripsi. Ingat bahwa mengenkripsi dompet Anda tidak dapat sepenuhnya melindungi TurboStakes Anda dari yang dicuri oleh malware menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about StrongHands</source>
-        <translation>Tampilkan informasi tentang StrongHands</translation>
+        <source>Show information about TurboStake</source>
+        <translation>Tampilkan informasi tentang TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,38 +497,38 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>StrongHands Wallet</source>
-        <translation>Dompet StrongHands</translation>
+        <source>TurboStake Wallet</source>
+        <translation>Dompet TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a StrongHands address</source>
-        <translation>Kirim koin ke alamat StrongHands</translation>
+        <source>Send coins to a TurboStake address</source>
+        <translation>Kirim koin ke alamat TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About StrongHands</source>
-        <translation>Tentang StrongHands</translation>
+        <source>&amp;About TurboStake</source>
+        <translation>Tentang TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for StrongHands</source>
-        <translation>Memodifikasi pilihan konfigurasi untuk StrongHands</translation>
+        <source>Modify configuration options for TurboStake</source>
+        <translation>Memodifikasi pilihan konfigurasi untuk TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;StrongHands</source>
-        <translation>Tampilkan/Sembunyikan StrongHands</translation>
+        <source>Show/Hide &amp;TurboStake</source>
+        <translation>Tampilkan/Sembunyikan TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the StrongHands window</source>
-        <translation>Tampilkan atau sembunyikan jendela StrongHands</translation>
+        <source>Show or hide the TurboStake window</source>
+        <translation>Tampilkan atau sembunyikan jendela TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>StrongHands client</source>
-        <translation>Klien StrongHands</translation>
+        <source>TurboStake client</source>
+        <translation>Klien TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Apakah Anda yakin ingin mengenkripsi dompet Anda?</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to StrongHands network</source>
+        <source>%n active connection(s) to TurboStake network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
         </translation>
@@ -671,8 +671,8 @@ Alamat: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. StrongHands can no longer continue safely and will quit.</source>
-        <translation>Sebuah error fatal terjadi. StrongHands tidak bisa lagi melanjutkan dengan aman dan akan berhenti.</translation>
+        <source>A fatal error occured. TurboStake can no longer continue safely and will quit.</source>
+        <translation>Sebuah error fatal terjadi. TurboStake tidak bisa lagi melanjutkan dengan aman dan akan berhenti.</translation>
     </message>
 </context>
 <context>
@@ -970,8 +970,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show StrongHands addresses in the transaction list</source>
-        <translation>Apakah menampilkan alamat StrongHands dalam daftar transaksi</translation>
+        <source>Whether to show TurboStake addresses in the transaction list</source>
+        <translation>Apakah menampilkan alamat TurboStake dalam daftar transaksi</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1038,8 +1038,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
-        <translation>Alamat yang di masukkan &quot;%1&quot; tidak berlaku di alamat StrongHands</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TurboStake address.</source>
+        <translation>Alamat yang di masukkan &quot;%1&quot; tidak berlaku di alamat TurboStake</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1081,8 +1081,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Secara otomatis membuka port klien StrongHands pada router. Ini hanya bekerja ketika router Anda mendukung UPnP dan diaktifkan.</translation>
+        <source>Automatically open the TurboStake client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Secara otomatis membuka port klien TurboStake pada router. Ini hanya bekerja ketika router Anda mendukung UPnP dan diaktifkan.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1116,8 +1116,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SHND fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Biaya transaksi jaringan Wajib per kB ditransfer. Kebanyakan transaksi 1 kB dan dikenakan biaya 0.01 SHND. Catatan: Ukuran Transfer dapat meningkatkan tergantung pada jumlah transaksi input yang diperlukan untuk ditambahkan bersama-sama untuk mendanai pembayaran.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 trbo fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Biaya transaksi jaringan Wajib per kB ditransfer. Kebanyakan transaksi 1 kB dan dikenakan biaya 0.01 trbo. Catatan: Ukuran Transfer dapat meningkatkan tergantung pada jumlah transaksi input yang diperlukan untuk ditambahkan bersama-sama untuk mendanai pembayaran.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1136,13 +1136,13 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start StrongHands on window system startup</source>
-        <translation>Mulai StrongHands pada sistem jendela startup</translation>
+        <source>&amp;Start TurboStake on window system startup</source>
+        <translation>Mulai TurboStake pada sistem jendela startup</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start StrongHands after the computer is turned on</source>
-        <translation>Otomatis mulai StrongHands setelah komputer dihidupkan</translation>
+        <source>Automatically start TurboStake after the computer is turned on</source>
+        <translation>Otomatis mulai TurboStake setelah komputer dihidupkan</translation>
     </message>
 </context>
 <context>
@@ -1426,8 +1426,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SHND</source>
-        <translation>SHND</translation>
+        <source>trbo</source>
+        <translation>trbo</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1469,8 +1469,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>StrongHands (StrongHands) debug window</source>
-        <translation>StrongHands (StrongHands) jendela debug</translation>
+        <source>TurboStake (TurboStake) debug window</source>
+        <translation>TurboStake (TurboStake) jendela debug</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1561,8 +1561,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the StrongHands RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Selamat datang di konsol StrongHands RPC. &lt;br&gt;Gunakan panah atas dan bawah untuk menavigasi sejarah, dan &lt;b&gt;Ctrl-L&lt;/b&gt; untuk menghapus layar. &lt;br&gt;Type &lt;b&gt;help&lt;/b&gt;  untuk overview command yang tersedia.</translation>
+        <source>Welcome to the TurboStake RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Selamat datang di konsol TurboStake RPC. &lt;br&gt;Gunakan panah atas dan bawah untuk menavigasi sejarah, dan &lt;b&gt;Ctrl-L&lt;/b&gt; untuk menghapus layar. &lt;br&gt;Type &lt;b&gt;help&lt;/b&gt;  untuk overview command yang tersedia.</translation>
     </message>
 </context>
 <context>
@@ -1795,8 +1795,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Masukkan alamat StrongHands</translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Masukkan alamat TurboStake</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1884,8 +1884,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Masukkan alamat StrongHands</translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Masukkan alamat TurboStake</translation>
     </message>
 </context>
 <context>
@@ -1949,8 +1949,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this StrongHands address</source>
-        <translation>Masuk pesan untuk membuktikan bahwa Anda sudah memiliki alamat StrongHands ini</translation>
+        <source>Sign the message to prove you own this TurboStake address</source>
+        <translation>Masuk pesan untuk membuktikan bahwa Anda sudah memiliki alamat TurboStake ini</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1985,8 +1985,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified StrongHands address</source>
-        <translation>Verifikasi pesan untuk memastikan ditandatangani dengan alamati StrongHands yang ditentukan</translation>
+        <source>Verify the message to ensure it was signed with the specified TurboStake address</source>
+        <translation>Verifikasi pesan untuk memastikan ditandatangani dengan alamati TurboStake yang ditentukan</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2011,8 +2011,8 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Masukkan alamat StrongHands</translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Masukkan alamat TurboStake</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2568,18 +2568,18 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
-        <translation>Tidak dapat mengikat ke port %d di komputer ini. StrongHands mungkin sudah berjalan.</translation>
+        <source>Unable to bind to port %d on this computer.  TurboStake is probably already running.</source>
+        <translation>Tidak dapat mengikat ke port %d di komputer ini. TurboStake mungkin sudah berjalan.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>StrongHands version</source>
-        <translation>Versi StrongHands</translation>
+        <source>TurboStake version</source>
+        <translation>Versi TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or stronghandsd</source>
-        <translation>Kirim command ke -server atau stronghandsd</translation>
+        <source>Send command to -server or TurboStaked</source>
+        <translation>Kirim command ke -server atau TurboStaked</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2598,13 +2598,13 @@ Ini berarti diperlukan biaya minimal %2.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: stronghands.conf)</source>
-        <translation>File konfigurasi ditentukan (default: stronghands.conf)</translation>
+        <source>Specify configuration file (default: TurboStake.conf)</source>
+        <translation>File konfigurasi ditentukan (default: TurboStake.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: stronghandsd.pid)</source>
-        <translation>Menentukan file pid (default: stronghandsd.pid)</translation>
+        <source>Specify pid file (default: TurboStaked.pid)</source>
+        <translation>Menentukan file pid (default: TurboStaked.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2859,23 +2859,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
-        <translation>Tidak dapat memperoleh kunci pada direktori data %s. StrongHands mungkin sudah berjalan.</translation>
+        <source>Cannot obtain a lock on data directory %s.  TurboStake is probably already running.</source>
+        <translation>Tidak dapat memperoleh kunci pada direktori data %s. TurboStake mungkin sudah berjalan.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>StrongHands</source>
-        <translation>StrongHands</translation>
+        <source>TurboStake</source>
+        <translation>TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
-        <translation>Error loading wallet.dat: Dompet memerlukan versi terbaru dari StrongHands</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TurboStake</source>
+        <translation>Error loading wallet.dat: Dompet memerlukan versi terbaru dari TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
-        <translation>Dompet perlu ditulis ulang: me-restart StrongHands untuk menyelesaikan</translation>
+        <source>Wallet needed to be rewritten: restart TurboStake to complete</source>
+        <translation>Dompet perlu ditulis ulang: me-restart TurboStake untuk menyelesaikan</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2891,8 +2891,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
-        <translation>Peringatan: Harap periksa tanggal komputer Anda dan waktu sudah benar. Jika jam Anda salah StrongHands tidak akan berfungsi.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong TurboStake will not work properly.</source>
+        <translation>Peringatan: Harap periksa tanggal komputer Anda dan waktu sudah benar. Jika jam Anda salah TurboStake tidak akan berfungsi.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

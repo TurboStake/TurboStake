@@ -21,9 +21,9 @@ static unsigned char pchMessageStartTestOld[4] = { 0xcf, 0xe1, 0xf2, 0xfc };
 static unsigned char pchMessageStartTestNew[4] = { 0xcf, 0xf2, 0xc0, 0xfc };
 static unsigned int nMessageStartTestSwitchTime = 1346200000;
 
-// StrongHands message start (switch from Bitcoin's in v0.2)
+// TurboStake message start (switch from Bitcoin's in v0.2)
 static unsigned char pchMessageStartBitcoin[4] = { 0xcf, 0xbe, 0xb4, 0xfc };
-static unsigned char pchMessageStartStrongHands[4] = { 0x46, 0x55, 0x43, 0x4b };
+static unsigned char pchMessageStartTurboStake[4] = { 0xfc, 0xb9, 0xc8, 0xe3 };
 static unsigned int nMessageStartSwitchTime = 1347300000;
 
 void GetMessageStart(unsigned char pchMessageStart[], bool fPersistent)
@@ -31,7 +31,7 @@ void GetMessageStart(unsigned char pchMessageStart[], bool fPersistent)
     if (fTestNet)
         memcpy(pchMessageStart, (fPersistent || GetAdjustedTime() > nMessageStartTestSwitchTime)? pchMessageStartTestNew : pchMessageStartTestOld, sizeof(pchMessageStartTestNew));
     else
-        memcpy(pchMessageStart, (fPersistent || GetAdjustedTime() > nMessageStartSwitchTime)? pchMessageStartStrongHands : pchMessageStartBitcoin, sizeof(pchMessageStartStrongHands));
+        memcpy(pchMessageStart, (fPersistent || GetAdjustedTime() > nMessageStartSwitchTime)? pchMessageStartTurboStake : pchMessageStartBitcoin, sizeof(pchMessageStartTurboStake));
 }
 
 static const char* ppszTypeName[] =

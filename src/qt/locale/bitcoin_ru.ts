@@ -6,23 +6,23 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About StrongHands</source>
-        <translation>О StrongHands</translation>
+        <source>About TurboStake</source>
+        <translation>О TurboStake</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;StrongHands&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;TurboStake&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;TurboStake&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 StrongHands Developers</source>
-        <translation>Право собственности © 2014 StrongHands Developers</translation>
+        <source>Copyright © 2014 TurboStake Developers</source>
+        <translation>Право собственности © 2014 TurboStake Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 StrongHands Developers</source>
-        <translation>Право собственности © 2011-2014 StrongHands Developers</translation>
+        <source>Copyright © 2011-2014 TurboStake Developers</source>
+        <translation>Право собственности © 2011-2014 TurboStake Developers</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="133"/>
@@ -48,8 +48,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your StrongHands addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Это адреса StrongHands для получения платежей. Вы можете дать другой адрес для каждого отправителя, чтобы иметь возможность отслеживать, кто платит вам. </translation>
+        <source>These are your TurboStake addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Это адреса TurboStake для получения платежей. Вы можете дать другой адрес для каждого отправителя, чтобы иметь возможность отслеживать, кто платит вам. </translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>StrongHands will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your StrongHandss from being stolen by malware infecting your computer.</source>
-        <translation>StrongHands сейчас закроется для завершения процесса шифрования. Помните, что шифрование не может полностью защитить ваш кошелек от кражи StrongHands, так как ваш компьютер может быть заражен вредоносными программами.  </translation>
+        <source>TurboStake will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your TurboStakes from being stolen by malware infecting your computer.</source>
+        <translation>TurboStake сейчас закроется для завершения процесса шифрования. Помните, что шифрование не может полностью защитить ваш кошелек от кражи TurboStake, так как ваш компьютер может быть заражен вредоносными программами.  </translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -382,8 +382,8 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about StrongHands</source>
-        <translation>Показать информацию о StrongHands</translation>
+        <source>Show information about TurboStake</source>
+        <translation>Показать информацию о TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -497,39 +497,39 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>StrongHands Wallet</source>
-        <translation>Кошелек StrongHands </translation>
+        <source>TurboStake Wallet</source>
+        <translation>Кошелек TurboStake </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a StrongHands address</source>
-        <translation>Отправить монеты на адрес StrongHands </translation>
+        <source>Send coins to a TurboStake address</source>
+        <translation>Отправить монеты на адрес TurboStake </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About StrongHands</source>
-        <translation>О StrongHands </translation>
+        <source>&amp;About TurboStake</source>
+        <translation>О TurboStake </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for StrongHands</source>
-        <translation>Изменить параметры конфигурации StrongHands </translation>
+        <source>Modify configuration options for TurboStake</source>
+        <translation>Изменить параметры конфигурации TurboStake </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;StrongHands</source>
-        <translation>Скрыть/Показать StrongHands</translation>
+        <source>Show/Hide &amp;TurboStake</source>
+        <translation>Скрыть/Показать TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the StrongHands window</source>
-        <translation>Скрыть или показать окно программы StrongHands
+        <source>Show or hide the TurboStake window</source>
+        <translation>Скрыть или показать окно программы TurboStake
 </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>StrongHands client</source>
-        <translation>Клиент StrongHands </translation>
+        <source>TurboStake client</source>
+        <translation>Клиент TurboStake </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -538,7 +538,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to StrongHands network</source>
+        <source>%n active connection(s) to TurboStake network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -685,8 +685,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. StrongHands can no longer continue safely and will quit.</source>
-        <translation>Произошла фатальная ошибка. StrongHands не может продолжать работать нормально и закрывается. </translation>
+        <source>A fatal error occured. TurboStake can no longer continue safely and will quit.</source>
+        <translation>Произошла фатальная ошибка. TurboStake не может продолжать работать нормально и закрывается. </translation>
     </message>
 </context>
 <context>
@@ -984,8 +984,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show StrongHands addresses in the transaction list</source>
-        <translation>Отображать адреса StrongHands в списке транзакций</translation>
+        <source>Whether to show TurboStake addresses in the transaction list</source>
+        <translation>Отображать адреса TurboStake в списке транзакций</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1052,8 +1052,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid StrongHands address.</source>
-        <translation>Введенный адрес &quot;%1&quot; не является допустимым адресом для StrongHands.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid TurboStake address.</source>
+        <translation>Введенный адрес &quot;%1&quot; не является допустимым адресом для TurboStake.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1095,8 +1095,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the StrongHands client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открывать порт клиента StrongHands на роутере. Это будет работать, только если роутер поддерживает UPnP и он включен.</translation>
+        <source>Automatically open the TurboStake client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открывать порт клиента TurboStake на роутере. Это будет работать, только если роутер поддерживает UPnP и он включен.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1106,7 +1106,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Подключаться к сети StrongHands через SOCKS4 прокси (например, при использовании Tor)</translation>
+        <translation>Подключаться к сети TurboStake через SOCKS4 прокси (например, при использовании Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1130,8 +1130,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SHND fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Обязательные операционные платы за каждый килобайт перечислены. Большинство операций имеют меньше 1 килобайта и оплачиваются в размере 0.01 SHND. Замечание: размер перевода может увеличиваться в зависимости от количества входных операций, добавляемых вместе, чтобы финансировать оплату. </translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 trbo fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Обязательные операционные платы за каждый килобайт перечислены. Большинство операций имеют меньше 1 килобайта и оплачиваются в размере 0.01 trbo. Замечание: размер перевода может увеличиваться в зависимости от количества входных операций, добавляемых вместе, чтобы финансировать оплату. </translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1150,13 +1150,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start StrongHands on window system startup</source>
-        <translation>Запускать StrongHands при запуске компьютера</translation>
+        <source>&amp;Start TurboStake on window system startup</source>
+        <translation>Запускать TurboStake при запуске компьютера</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start StrongHands after the computer is turned on</source>
-        <translation>Автоматически запускать StrongHands после включения компьютера</translation>
+        <source>Automatically start TurboStake after the computer is turned on</source>
+        <translation>Автоматически запускать TurboStake после включения компьютера</translation>
     </message>
 </context>
 <context>
@@ -1440,8 +1440,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SHND</source>
-        <translation>SHND</translation>
+        <source>trbo</source>
+        <translation>trbo</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1483,8 +1483,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>StrongHands (StrongHands) debug window</source>
-        <translation>Окно отладки StrongHands (StrongHands)</translation>
+        <source>TurboStake (TurboStake) debug window</source>
+        <translation>Окно отладки TurboStake (TurboStake)</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1575,8 +1575,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the StrongHands RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Добро пожаловать в консоль StrongHands RPC. &lt;br&gt;Используйте стрелки вверх и вниз, для перемещения по истории, и &lt;b&gt;Ctrl-L&lt;/b&gt; чтобы очистить экран.&lt;br&gt;Введите &lt;b&gt;help&lt;/b&gt; для обзора доступных команд.</translation>
+        <source>Welcome to the TurboStake RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Добро пожаловать в консоль TurboStake RPC. &lt;br&gt;Используйте стрелки вверх и вниз, для перемещения по истории, и &lt;b&gt;Ctrl-L&lt;/b&gt; чтобы очистить экран.&lt;br&gt;Введите &lt;b&gt;help&lt;/b&gt; для обзора доступных команд.</translation>
     </message>
 </context>
 <context>
@@ -1809,8 +1809,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Введите адрес StrongHands </translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Введите адрес TurboStake </translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1898,8 +1898,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Введите адрес StrongHands </translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Введите адрес TurboStake </translation>
     </message>
 </context>
 <context>
@@ -1963,8 +1963,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this StrongHands address</source>
-        <translation>Подписать сообщение, чтобы доказать, что вы владелец этого StrongHands адреса </translation>
+        <source>Sign the message to prove you own this TurboStake address</source>
+        <translation>Подписать сообщение, чтобы доказать, что вы владелец этого TurboStake адреса </translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1999,8 +1999,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified StrongHands address</source>
-        <translation>Проверьте сообщение, чтобы гарантировать, что его пописали заданным StrongHands адресом</translation>
+        <source>Verify the message to ensure it was signed with the specified TurboStake address</source>
+        <translation>Проверьте сообщение, чтобы гарантировать, что его пописали заданным TurboStake адресом</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2025,8 +2025,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a StrongHands address</source>
-        <translation>Введите адрес StrongHands </translation>
+        <source>Enter a TurboStake address</source>
+        <translation>Введите адрес TurboStake </translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2587,18 +2587,18 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  StrongHands is probably already running.</source>
-        <translation>Невозможно связаться с портом %d на компьютере. StrongHands, вероятно, уже запущена. </translation>
+        <source>Unable to bind to port %d on this computer.  TurboStake is probably already running.</source>
+        <translation>Невозможно связаться с портом %d на компьютере. TurboStake, вероятно, уже запущена. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>StrongHands version</source>
-        <translation>Версия StrongHands</translation>
+        <source>TurboStake version</source>
+        <translation>Версия TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or stronghandsd</source>
-        <translation>Отправить команду на -server или stronghandsd</translation>
+        <source>Send command to -server or TurboStaked</source>
+        <translation>Отправить команду на -server или TurboStaked</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2618,13 +2618,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: stronghands.conf)</source>
-        <translation>Указать файл конфигурации системы (default: stronghands.conf)</translation>
+        <source>Specify configuration file (default: TurboStake.conf)</source>
+        <translation>Указать файл конфигурации системы (default: TurboStake.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: stronghandsd.pid)</source>
-        <translation>Указать pid-файл (по умолчанию: StrongHands.pid)</translation>
+        <source>Specify pid file (default: TurboStaked.pid)</source>
+        <translation>Указать pid-файл (по умолчанию: TurboStake.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
@@ -2879,23 +2879,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  StrongHands is probably already running.</source>
-        <translation>Невозможно получить блокировку на каталог данных %s. StrongHands вероятно уже запущена. </translation>
+        <source>Cannot obtain a lock on data directory %s.  TurboStake is probably already running.</source>
+        <translation>Невозможно получить блокировку на каталог данных %s. TurboStake вероятно уже запущена. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>StrongHands</source>
-        <translation>StrongHands</translation>
+        <source>TurboStake</source>
+        <translation>TurboStake</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of StrongHands</source>
-        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию StrongHands. </translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of TurboStake</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новую версию TurboStake. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart StrongHands to complete</source>
-        <translation>Кошелек должен быть переписан: перезапустите StrongHands, чтобы завершить процесс</translation>
+        <source>Wallet needed to be rewritten: restart TurboStake to complete</source>
+        <translation>Кошелек должен быть переписан: перезапустите TurboStake, чтобы завершить процесс</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2911,8 +2911,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong StrongHands will not work properly.</source>
-        <translation>Предупреждение: Пожалуйста, проверяйте правильно ли выставлено время и дата на компьютере. Если часы будут идти неправильно, StrongHands не будет работать должным образом. </translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong TurboStake will not work properly.</source>
+        <translation>Предупреждение: Пожалуйста, проверяйте правильно ли выставлено время и дата на компьютере. Если часы будут идти неправильно, TurboStake не будет работать должным образом. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>

@@ -1,4 +1,4 @@
-Copyright (c) 2012-2013 StrongHands Developers
+Copyright (c) 2012-2013 TurboStake Developers
 Copyright (c) 2009-2012 Bitcoin Developers
 Distributed under the MIT/X11 software license, see the accompanying file
 license.txt or http://www.opensource.org/licenses/mit-license.php.  This
@@ -12,10 +12,10 @@ Mac OS X bitcoind build instructions
 Laszlo Hanyecz <solar@heliacal.net>
 Douglas Huff <dhuff@jrbobdobbs.org>
 
-Modified for StrongHands by Jeff Larkin <jefflarkin@gmail.com>
+Modified for TurboStake by Jeff Larkin <jefflarkin@gmail.com>
 
 
-See readme-qt.rst for instructions on building StrongHands QT, the
+See readme-qt.rst for instructions on building TurboStake QT, the
 graphical user interface.
 
 Tested on 10.5 and 10.6 intel.  PPC is not supported because it's big-endian.
@@ -30,7 +30,7 @@ but you can get the current version from http://developer.apple.com
 
 1.  Clone the github tree to get the source code:
 
-git clone git@github.com:stronghands/stronghands.git stronghands
+git clone git@github.com:TurboStake/TurboStake.git TurboStake
 
 2.  Download and install MacPorts from http://www.macports.org/
 
@@ -46,14 +46,14 @@ sudo port install qrencode
 
 4.  Now you should be able to build bitcoind:
 
-cd stronghands/src
+cd TurboStake/src
 make -f makefile.osx
 # To build 64-bit binaies:
 make -f makefile.osx RELEASE=true 64BIT=true
 
 Run:
-  ./stronghandsd --help  # for a list of command-line options.
+  ./TurboStaked --help  # for a list of command-line options.
 Run
-  ./stronghandsd -daemon # to start the bitcoin daemon.
+  ./TurboStaked -daemon # to start the bitcoin daemon.
 Run
-  ./stronghandsd help # When the daemon is running, to get a list of RPC commands
+  ./TurboStaked help # When the daemon is running, to get a list of RPC commands
