@@ -24,153 +24,101 @@
        <property name="frameShadow">
         <enum>QFrame::Raised</enum>
        </property>
-       <widget class="QLabel" name="label">
-        <property name="geometry">
-         <rect>
-          <x>10</x>
-          <y>51</y>
-          <width>58</width>
-          <height>17</height>
-         </rect>
+       <layout class="QFormLayout" name="formLayout_2">
+        <property name="fieldGrowthPolicy">
+         <enum>QFormLayout::AllNonFixedFieldsGrow</enum>
         </property>
-        <property name="text">
-         <string>Balance:</string>
+        <property name="horizontalSpacing">
+         <number>12</number>
         </property>
-       </widget>
-       <widget class="QLabel" name="labelBalance">
-        <property name="geometry">
-         <rect>
-          <x>187</x>
-          <y>51</y>
-          <width>39</width>
-          <height>17</height>
-         </rect>
+        <property name="verticalSpacing">
+         <number>12</number>
         </property>
-        <property name="text">
-         <string notr="true">0 BTC</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="label_2">
-        <property name="geometry">
-         <rect>
-          <x>10</x>
-          <y>138</y>
-          <width>165</width>
-          <height>17</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string>Number of transactions:</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="labelNumTransactions">
-        <property name="geometry">
-         <rect>
-          <x>187</x>
-          <y>138</y>
-          <width>16</width>
-          <height>17</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string>0</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="label_3">
-        <property name="geometry">
-         <rect>
-          <x>10</x>
-          <y>109</y>
-          <width>93</width>
-          <height>17</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string>Unconfirmed:</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="labelUnconfirmed">
-        <property name="geometry">
-         <rect>
-          <x>187</x>
-          <y>109</y>
-          <width>39</width>
-          <height>17</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string notr="true">0 BTC</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="label_6">
-        <property name="geometry">
-         <rect>
-          <x>10</x>
-          <y>80</y>
-          <width>42</width>
-          <height>17</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string>Stake:</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="labelStake">
-        <property name="geometry">
-         <rect>
-          <x>187</x>
-          <y>80</y>
-          <width>39</width>
-          <height>17</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string notr="true">0 BTC</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="label_5">
-        <property name="geometry">
-         <rect>
-          <x>10</x>
-          <y>22</y>
-          <width>47</width>
-          <height>17</height>
-         </rect>
-        </property>
-        <property name="font">
-         <font>
-          <pointsize>11</pointsize>
-          <weight>75</weight>
-          <bold>true</bold>
-         </font>
-        </property>
-        <property name="text">
-         <string>Wallet</string>
-        </property>
-       </widget>
-       <widget class="QLabel" name="label_wallet_bgcoin">
-        <property name="geometry">
-         <rect>
-          <x>30</x>
-          <y>170</y>
-          <width>191</width>
-          <height>141</height>
-         </rect>
-        </property>
-        <property name="text">
-         <string/>
-        </property>
-        <property name="pixmap">
-         <pixmap>../res/images/TurboStake_splash.png</pixmap>
-        </property>
-        <property name="scaledContents">
-         <bool>true</bool>
-        </property>
-        <property name="alignment">
-         <set>Qt::AlignCenter</set>
-        </property>
-       </widget>
+        <item row="2" column="0">
+         <widget class="QLabel" name="label">
+          <property name="text">
+           <string>Balance:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1">
+         <widget class="QLabel" name="labelBalance">
+          <property name="text">
+           <string notr="true">0 BTC</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="0">
+         <widget class="QLabel" name="label_2">
+          <property name="text">
+           <string>Number of transactions:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="5" column="1">
+         <widget class="QLabel" name="labelNumTransactions">
+          <property name="text">
+           <string>0</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="0">
+         <widget class="QLabel" name="label_3">
+          <property name="text">
+           <string>Unconfirmed:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="4" column="1">
+         <widget class="QLabel" name="labelUnconfirmed">
+          <property name="text">
+           <string notr="true">0 BTC</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="0">
+         <widget class="QLabel" name="label_6">
+          <property name="text">
+           <string>Stake:</string>
+          </property>
+         </widget>
+        </item>
+        <item row="3" column="1">
+         <widget class="QLabel" name="labelStake">
+          <property name="text">
+           <string notr="true">0 BTC</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QLabel" name="label_5">
+          <property name="font">
+           <font>
+            <pointsize>11</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>Wallet</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
       </widget>
+     </item>
+     <item>
+      <spacer name="verticalSpacer">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+       <property name="sizeHint" stdset="0">
+        <size>
+         <width>20</width>
+         <height>40</height>
+        </size>
+       </property>
+      </spacer>
      </item>
     </layout>
    </item>
@@ -212,9 +160,6 @@
    </item>
   </layout>
  </widget>
- <resources>
-  <include location="../../../../blehcoin/src/qt/blehcoin.qrc"/>
-  <include location="../blehcoin.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>
